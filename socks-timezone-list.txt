@@ -204,7 +204,6 @@
 10.124.0.205 America/Mexico_City
 10.124.0.206 America/Mexico_City
 10.124.0.4 Europe/Amsterdam
-10.124.0.39 Europe/Amsterdam
 10.124.0.40 Europe/Amsterdam
 10.124.0.114 Europe/Amsterdam
 10.124.0.94 Europe/Amsterdam
