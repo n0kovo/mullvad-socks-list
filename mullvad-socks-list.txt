@@ -1,5 +1,5 @@
-Date: 2024-10-30 13-04-38 UTC
-Total active proxies: 425
+Date: 2024-10-30 18-49-59 UTC
+Total active proxies: 431
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -133,6 +133,12 @@ Total active proxies: 425
  🇫🇷    France          Bordeaux            10.124.1.64   45.134.79.97     2a06:3040:4:610::f101                 10     3318      ❌     HostRoyale     ✔️      fr-bod-wg-002 
  🇫🇷    France          Marseille           10.124.0.45   138.199.15.162   2a02:6ea0:dc05::a15f                  10     3045      ❌     DataPacket     ✔️      fr-mrs-wg-001 
  🇫🇷    France          Marseille           10.124.1.183  138.199.15.146   2a02:6ea0:dc06::a16f                  10     3437      ❌     DataPacket     ✔️      fr-mrs-wg-002 
+ 🇫🇷    France          Paris               10.124.0.116  193.32.126.66    2a03:1b20:9:f011::a01f                20     3116      ✔️     31173          ✔️      fr-par-wg-001 
+ 🇫🇷    France          Paris               10.124.0.117  193.32.126.67    2a03:1b20:9:f011::f101                20     3117      ✔️     31173          ✔️      fr-par-wg-002 
+ 🇫🇷    France          Paris               10.124.0.118  193.32.126.68    2a03:1b20:9:f011::f201                20     3118      ✔️     31173          ✔️      fr-par-wg-003 
+ 🇫🇷    France          Paris               10.124.0.119  193.32.126.69    2a03:1b20:9:f011::f301                20     3119      ✔️     31173          ✔️      fr-par-wg-004 
+ 🇫🇷    France          Paris               10.124.0.120  193.32.126.70    2a03:1b20:9:f011::f401                20     3120      ✔️     31173          ✔️      fr-par-wg-005 
+ 🇫🇷    France          Paris               10.124.0.238  193.32.126.84    2a03:1b20:9:f011::f001                20     3238      ✔️     31173          ✔️      fr-par-wg-006 
  🇫🇷    France          Paris               10.124.0.223  146.70.184.2     2001:ac8:25:3a::f001                  10     3223      ❌     M247           ✔️      fr-par-wg-101 
  🇫🇷    France          Paris               10.124.0.224  146.70.184.66    2001:ac8:25:3b::f001                  10     3224      ❌     M247           ✔️      fr-par-wg-102 
  🇫🇷    France          Paris               10.124.1.78   95.173.222.2     2a02:6ea0:1901:2::f001                10     3332      ❌     DataPacket     ✔️      fr-par-wg-301 
