@@ -1,4 +1,4 @@
-Date: 2024-11-08 02-05-04 UTC
+Date: 2024-11-08 06-49-40 UTC
 Total active proxies: 430
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
@@ -411,6 +411,7 @@ Total active proxies: 430
  🇺🇸    USA             Seattle, WA         10.124.1.227  138.199.43.65    2a02:6ea0:d80b:1::b73f                10     3481      ❌     DataPacket     ✔️      us-sea-wg-003 
  🇺🇸    USA             Seattle, WA         10.124.0.1    198.54.131.130   2607:9000:5000:15::b77f               10     3001      ❌     Tzulo          ✔️      us-sea-wg-101 
  🇺🇸    USA             Seattle, WA         10.124.0.3    198.54.131.162   2607:9000:5000:16::b78f               10     3003      ❌     Tzulo          ✔️      us-sea-wg-102 
+ 🇺🇸    USA             Seattle, WA         10.124.0.5    198.54.131.98    2607:9000:5000:14::b03f               10     3005      ❌     Tzulo          ✔️      us-sea-wg-103 
  🇺🇸    USA             Seattle, WA         10.124.0.164  104.129.57.66    2607:fcd0:cd00:a00::b27f              10     3164      ❌     Quadranet      ✔️      us-sea-wg-301 
  🇺🇸    USA             Seattle, WA         10.124.0.158  173.205.93.2     2607:fcd0:cd00:a01::b28f              10     3158      ❌     Quadranet      ✔️      us-sea-wg-302 
  🇺🇸    USA             San Jose, CA        10.124.0.78   198.54.134.98    2607:9000:8000:14::f001               10     3078      ❌     Tzulo          ✔️      us-sjc-wg-001 
@@ -430,6 +431,3 @@ Total active proxies: 430
  🇺🇸    USA             Secaucus, NJ        10.124.1.176  173.205.85.34    2607:fcd0:ccc0:1d05::c41f             10     3430      ❌     Quadranet      ✔️      us-uyk-wg-103 
  🇿🇦    South Africa    Johannesburg        10.124.2.59   154.47.30.130    2a02:6ea0:f206::f001                  10     3567      ❌     DataPacket     ✔️      za-jnb-wg-001 
  🇿🇦    South Africa    Johannesburg        10.124.2.60   154.47.30.143    2a02:6ea0:f207::f001                  10     3568      ❌     DataPacket     ✔️      za-jnb-wg-002 
-Failed to resovle:
- flag  country  city         socks5                                   ipv4           ipv6                     speed  multihop  owned  provider  stboot  hostname      
- 🇺🇸    USA      Seattle, WA  us-sea-wg-socks5-103.relays.mullvad.net  198.54.131.98  2607:9000:5000:14::b03f  10     3005      ❌     Tzulo     ✔️      us-sea-wg-103 
