@@ -32,7 +32,7 @@
 10.124.0.232 America/Toronto
 10.124.0.233 America/Toronto
 10.124.0.234 America/Toronto
-10.124.1.235 America/Toronto
+;; communications error to 1.1.1.1#53: timed out America/Toronto
 10.124.1.236 America/Toronto
 10.124.0.47 America/Toronto
 10.124.0.51 America/Toronto
@@ -54,7 +54,7 @@
 10.124.0.125 Europe/Zurich
 10.124.0.241 Europe/Zurich
 10.124.0.105 Europe/Zurich
-10.124.0.106 Europe/Zurich
+;; communications error to 1.1.1.1#53: timed out Europe/Zurich
 10.124.1.213 Europe/Zurich
 10.124.1.214 Europe/Zurich
 10.124.1.215 Europe/Zurich
@@ -387,7 +387,7 @@
 10.124.1.45 America/New_York
 10.124.1.46 America/New_York
 10.124.1.47 America/New_York
-10.124.0.235 America/New_York
+;; communications error to 1.1.1.1#53: timed out America/New_York
 10.124.0.34 America/Phoenix
 10.124.0.31 America/Phoenix
 10.124.0.32 America/Phoenix
@@ -420,7 +420,7 @@
 10.124.1.7 America/Los_Angeles
 10.124.1.12 America/Chicago
 10.124.1.13 America/Chicago
-10.124.1.14 America/Chicago
+;; communications error to 1.1.1.1#53: timed out America/Chicago
 10.124.0.250 America/Chicago
 10.124.0.251 America/Chicago
 10.124.0.242 America/New_York
