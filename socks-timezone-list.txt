@@ -232,7 +232,7 @@
 10.124.1.82 America/Lima
 10.124.1.219 Europe/Warsaw
 10.124.1.220 Europe/Warsaw
-10.124.1.221 Europe/Warsaw
+;; communications error to 1.1.1.1#53: timed out Europe/Warsaw
 10.124.2.45 Europe/Warsaw
 10.124.2.46 Europe/Warsaw
 10.124.0.198 Europe/Lisbon
@@ -368,6 +368,9 @@
 10.124.1.190 America/New_York
 10.124.1.191 America/New_York
 10.124.1.192 America/New_York
+10.124.1.231 America/New_York
+10.124.1.232 America/New_York
+10.124.0.210 America/New_York
 10.124.0.72 America/New_York
 10.124.0.75 America/New_York
 10.124.0.76 America/New_York
