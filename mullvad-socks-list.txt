@@ -1,4 +1,4 @@
-Date: 2024-11-15 13-05-02 UTC
+Date: 2024-11-15 18-50-24 UTC
 Total active proxies: 425
  flag  country         city                socks5                                            ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155                                      31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
@@ -235,7 +235,7 @@ Total active proxies: 425
  🇵🇪    Peru            Lima                10.124.1.82                                       95.173.223.159   2a02:6ea0:5500:2::f001                10     3336      ❌     DataPacket     ✔️      pe-lim-wg-002 
  🇵🇱    Poland          Warsaw              10.124.1.219                                      45.134.212.66    2a02:6ea0:ce08:1::f001                10     3473      ❌     DataPacket     ✔️      pl-waw-wg-101 
  🇵🇱    Poland          Warsaw              10.124.1.220                                      45.134.212.79    2a02:6ea0:ce08:2::a06f                10     3474      ❌     DataPacket     ✔️      pl-waw-wg-102 
- 🇵🇱    Poland          Warsaw              ;; communications error to 1.1.1.1#53: timed out  45.134.212.92    2a02:6ea0:ce08:3::a07f                10     3475      ❌     DataPacket     ✔️      pl-waw-wg-103 
+ 🇵🇱    Poland          Warsaw              10.124.1.221                                      45.134.212.92    2a02:6ea0:ce08:3::a07f                10     3475      ❌     DataPacket     ✔️      pl-waw-wg-103 
  🇵🇱    Poland          Warsaw              10.124.2.45                                       45.128.38.226    2a0d:5600:13:67::a01f                 10     3553      ❌     M247           ✔️      pl-waw-wg-201 
  🇵🇱    Poland          Warsaw              10.124.2.46                                       146.70.144.34    2a0d:5600:13:c47::a02f                10     3554      ❌     M247           ✔️      pl-waw-wg-202 
  🇵🇹    Portugal        Lisbon              10.124.0.198                                      149.88.20.206    2a02:6ea0:fb01:1::f001                10     3198      ❌     DataPacket     ✔️      pt-lis-wg-201 
@@ -338,8 +338,8 @@ Total active proxies: 425
  🇺🇸    USA             Denver, CO          10.124.1.197                                      37.19.210.14     2a02:6ea0:d70a:1::b58f                10     3451      ❌     DataPacket     ✔️      us-den-wg-102 
  🇺🇸    USA             Denver, CO          10.124.1.198                                      37.19.210.27     2a02:6ea0:d70a:2::b59f                10     3452      ❌     DataPacket     ✔️      us-den-wg-103 
  🇺🇸    USA             Detroit, MI         10.124.0.16                                       185.141.119.131  2a06:3040:11:610::f001                10     3016      ❌     HostRoyale     ✔️      us-det-wg-001 
- 🇺🇸    USA             Detroit, MI         10.124.0.23                                       185.141.119.161  2a06:3040:11:610::f101                10     3023      ❌     HostRoyale     ✔️      us-det-wg-002 
- 🇺🇸    USA             Houston, TX         10.124.1.205                                      37.19.221.130    2a02:6ea0:e001::f001                  10     3459      ❌     DataPacket     ✔️      us-hou-wg-001 
+ 🇺🇸    USA             Detroit, MI         ;; communications error to 1.1.1.1#53: timed out  185.141.119.161  2a06:3040:11:610::f101                10     3023      ❌     HostRoyale     ✔️      us-det-wg-002 
+ 🇺🇸    USA             Houston, TX         ;; communications error to 1.1.1.1#53: timed out  37.19.221.130    2a02:6ea0:e001::f001                  10     3459      ❌     DataPacket     ✔️      us-hou-wg-001 
  🇺🇸    USA             Houston, TX         10.124.1.193                                      37.19.221.143    2a02:6ea0:e001:1::f001                10     3447      ❌     DataPacket     ✔️      us-hou-wg-002 
  🇺🇸    USA             Houston, TX         10.124.1.194                                      37.19.221.156    2a02:6ea0:e001:2::b55f                10     3448      ❌     DataPacket     ✔️      us-hou-wg-003 
  🇺🇸    USA             Houston, TX         10.124.1.195                                      37.19.221.169    2a02:6ea0:e001:3::b56f                10     3449      ❌     DataPacket     ✔️      us-hou-wg-004 
