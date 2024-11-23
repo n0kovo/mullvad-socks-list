@@ -203,8 +203,7 @@
 10.124.0.204 America/Mexico_City
 10.124.0.205 America/Mexico_City
 10.124.0.206 America/Mexico_City
-10.124.0.4 Europe/Amsterdam
-10.124.0.40 Europe/Amsterdam
+10.124.0.39 Europe/Amsterdam
 10.124.0.114 Europe/Amsterdam
 10.124.0.94 Europe/Amsterdam
 10.124.0.243 Europe/Amsterdam
@@ -313,6 +312,7 @@
 10.124.1.203 America/Chicago
 10.124.1.87 America/Chicago
 10.124.1.88 America/Chicago
+10.124.1.89 America/Chicago
 10.124.1.90 America/Chicago
 10.124.1.92 America/Chicago
 10.124.1.93 America/Chicago

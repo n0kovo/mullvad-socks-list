@@ -1,4 +1,4 @@
-Date: 2024-11-23 06-50-20 UTC
+Date: 2024-11-23 13-02-43 UTC
 Total active proxies: 428
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
@@ -206,8 +206,7 @@ Total active proxies: 428
  🇲🇽    Mexico          Queretaro           10.124.0.204  149.88.22.142    2a02:6ea0:f803:1::f001                10     3204      ❌     DataPacket     ✔️      mx-qro-wg-002 
  🇲🇽    Mexico          Queretaro           10.124.0.205  149.88.22.155    2a02:6ea0:f803:2::f001                10     3205      ❌     DataPacket     ✔️      mx-qro-wg-003 
  🇲🇽    Mexico          Queretaro           10.124.0.206  149.88.22.168    2a02:6ea0:f803:3::f001                10     3206      ❌     DataPacket     ✔️      mx-qro-wg-004 
- 🇳🇱    Netherlands     Amsterdam           10.124.0.4    193.32.249.66    2a03:1b20:3:f011::f001                20     3004      ✔️     31173          ✔️      nl-ams-wg-001 
- 🇳🇱    Netherlands     Amsterdam           10.124.0.40   185.65.134.83    2a03:1b20:3:f011::f201                20     3040      ✔️     31173          ✔️      nl-ams-wg-003 
+ 🇳🇱    Netherlands     Amsterdam           10.124.0.39   185.65.134.82    2a03:1b20:3:f011::a02f                20     3039      ✔️     31173          ✔️      nl-ams-wg-002 
  🇳🇱    Netherlands     Amsterdam           10.124.0.114  193.32.249.70    2a03:1b20:3:f011::f401                20     3114      ✔️     31173          ✔️      nl-ams-wg-005 
  🇳🇱    Netherlands     Amsterdam           10.124.0.94   185.65.134.86    2a03:1b20:3:f011::f501                20     3094      ✔️     31173          ✔️      nl-ams-wg-006 
  🇳🇱    Netherlands     Amsterdam           10.124.0.243  185.65.134.76    2a03:1b20:3:f011::f701                20     3243      ✔️     31173          ✔️      nl-ams-wg-007 
@@ -316,6 +315,7 @@ Total active proxies: 428
  🇺🇸    USA             Chicago, IL         10.124.1.203  87.249.134.27    2a02:6ea0:c61f:2::f001                10     3457      ❌     DataPacket     ✔️      us-chi-wg-203 
  🇺🇸    USA             Chicago, IL         10.124.1.87   68.235.46.2      2607:9000:0:101::f001                 10     3341      ❌     Tzulo          ✔️      us-chi-wg-301 
  🇺🇸    USA             Chicago, IL         10.124.1.88   68.235.46.33     2607:9000:0:102::f001                 10     3342      ❌     Tzulo          ✔️      us-chi-wg-302 
+ 🇺🇸    USA             Chicago, IL         10.124.1.89   68.235.46.64     2607:9000:0:103::f001                 10     3343      ❌     Tzulo          ✔️      us-chi-wg-303 
  🇺🇸    USA             Chicago, IL         10.124.1.90   68.235.46.95     2607:9000:0:104::f001                 10     3344      ❌     Tzulo          ✔️      us-chi-wg-304 
  🇺🇸    USA             Chicago, IL         10.124.1.92   68.235.46.126    2607:9000:0:105::f001                 10     3346      ❌     Tzulo          ✔️      us-chi-wg-305 
  🇺🇸    USA             Chicago, IL         10.124.1.93   68.235.46.157    2607:9000:0:106::f001                 10     3347      ❌     Tzulo          ✔️      us-chi-wg-306 
