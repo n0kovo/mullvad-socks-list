@@ -1,5 +1,5 @@
-Date: 2024-11-23 13-02-43 UTC
-Total active proxies: 428
+Date: 2024-11-23 18-47-49 UTC
+Total active proxies: 433
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -207,6 +207,8 @@ Total active proxies: 428
  🇲🇽    Mexico          Queretaro           10.124.0.205  149.88.22.155    2a02:6ea0:f803:2::f001                10     3205      ❌     DataPacket     ✔️      mx-qro-wg-003 
  🇲🇽    Mexico          Queretaro           10.124.0.206  149.88.22.168    2a02:6ea0:f803:3::f001                10     3206      ❌     DataPacket     ✔️      mx-qro-wg-004 
  🇳🇱    Netherlands     Amsterdam           10.124.0.39   185.65.134.82    2a03:1b20:3:f011::a02f                20     3039      ✔️     31173          ✔️      nl-ams-wg-002 
+ 🇳🇱    Netherlands     Amsterdam           10.124.0.40   185.65.134.83    2a03:1b20:3:f011::f201                20     3040      ✔️     31173          ✔️      nl-ams-wg-003 
+ 🇳🇱    Netherlands     Amsterdam           10.124.0.113  193.32.249.69    2a03:1b20:3:f011::f301                20     3113      ✔️     31173          ✔️      nl-ams-wg-004 
  🇳🇱    Netherlands     Amsterdam           10.124.0.114  193.32.249.70    2a03:1b20:3:f011::f401                20     3114      ✔️     31173          ✔️      nl-ams-wg-005 
  🇳🇱    Netherlands     Amsterdam           10.124.0.94   185.65.134.86    2a03:1b20:3:f011::f501                20     3094      ✔️     31173          ✔️      nl-ams-wg-006 
  🇳🇱    Netherlands     Amsterdam           10.124.0.243  185.65.134.76    2a03:1b20:3:f011::f701                20     3243      ✔️     31173          ✔️      nl-ams-wg-007 
@@ -324,6 +326,9 @@ Total active proxies: 428
  🇺🇸    USA             Dallas, TX          10.124.0.27   146.70.211.66    2001:ac8:9a:76::1f                    10     3027      ❌     M247           ✔️      us-dal-wg-001 
  🇺🇸    USA             Dallas, TX          10.124.0.43   146.70.211.2     2001:ac8:9a:75::2f                    10     3043      ❌     M247           ✔️      us-dal-wg-002 
  🇺🇸    USA             Dallas, TX          10.124.0.44   146.70.211.130   2001:ac8:9a:78::3f                    10     3044      ❌     M247           ✔️      us-dal-wg-003 
+ 🇺🇸    USA             Dallas, TX          10.124.0.171  96.44.191.130    2607:fcd0:da80:1803::b35f             10     3171      ❌     Quadranet      ✔️      us-dal-wg-301 
+ 🇺🇸    USA             Dallas, TX          10.124.0.193  96.44.191.146    2607:fcd0:da80:1804::f001             10     3193      ❌     Quadranet      ✔️      us-dal-wg-302 
+ 🇺🇸    USA             Dallas, TX          10.124.1.175  96.44.189.98     2607:fcd0:da80:1801::c40f             10     3429      ❌     Quadranet      ✔️      us-dal-wg-303 
  🇺🇸    USA             Dallas, TX          10.124.1.226  37.19.200.156    2a02:6ea0:d20c:3::b72f                10     3480      ❌     DataPacket     ✔️      us-dal-wg-401 
  🇺🇸    USA             Dallas, TX          10.124.1.225  37.19.200.143    2a02:6ea0:d20c:2::b71f                10     3479      ❌     DataPacket     ✔️      us-dal-wg-402 
  🇺🇸    USA             Dallas, TX          10.124.1.224  37.19.200.130    2a02:6ea0:d20c:1::f001                10     3478      ❌     DataPacket     ✔️      us-dal-wg-403 
