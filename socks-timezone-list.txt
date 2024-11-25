@@ -192,7 +192,6 @@
 10.124.1.177 Asia/Tokyo
 10.124.1.178 Asia/Tokyo
 10.124.1.179 Asia/Tokyo
-10.124.1.180 Asia/Tokyo
 10.124.1.218 Asia/Tokyo
 10.124.1.217 Asia/Tokyo
 10.124.0.107 Asia/Tokyo
@@ -429,6 +428,7 @@
 10.124.1.14 America/Chicago
 10.124.0.250 America/Chicago
 10.124.0.251 America/Chicago
+10.124.0.242 America/New_York
 10.124.1.29 America/New_York
 10.124.1.176 America/New_York
 10.124.2.59 Africa/Johannesburg
