@@ -1,5 +1,5 @@
-Date: 2024-11-27 06-52-15 UTC
-Total active proxies: 430
+Date: 2024-11-27 13-07-17 UTC
+Total active proxies: 433
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -89,10 +89,12 @@ Total active proxies: 430
  🇩🇪    Germany         Dusseldorf          10.124.0.91   185.254.75.4     2a03:d9c0:3000::a21f                  10     3091      ❌     xtom           ✔️      de-dus-wg-002 
  🇩🇪    Germany         Dusseldorf          10.124.0.92   185.254.75.5     2a03:d9c0:3000::a22f                  10     3092      ❌     xtom           ✔️      de-dus-wg-003 
  🇩🇪    Germany         Frankfurt           10.124.0.54   185.213.155.74   2a03:1b20:6:f011::f101                20     3054      ✔️     31173          ✔️      de-fra-wg-002 
+ 🇩🇪    Germany         Frankfurt           10.124.1.26   185.209.196.74   2a03:1b20:6:f011::f301                20     3280      ✔️     31173          ✔️      de-fra-wg-004 
  🇩🇪    Germany         Frankfurt           10.124.0.222  185.209.196.76   2a03:1b20:6:f011::f501                20     3222      ✔️     31173          ✔️      de-fra-wg-006 
  🇩🇪    Germany         Frankfurt           10.124.1.24   185.209.196.77   2a03:1b20:6:f011::f601                20     3278      ✔️     31173          ✔️      de-fra-wg-007 
  🇩🇪    Germany         Frankfurt           10.124.1.25   185.209.196.78   2a03:1b20:6:f011::f701                20     3279      ✔️     31173          ✔️      de-fra-wg-008 
  🇩🇪    Germany         Frankfurt           10.124.0.240  185.213.155.72   2a03:1b20:6:f011::f901                20     3240      ✔️     31173          ✔️      de-fra-wg-009 
+ 🇩🇪    Germany         Frankfurt           10.124.1.243  146.70.117.162   2001:ac8:20:274::a99f                 10     3497      ❌     M247           ✔️      de-fra-wg-101 
  🇩🇪    Germany         Frankfurt           10.124.1.238  146.70.117.194   2001:ac8:20:275::f001                 10     3492      ❌     M247           ✔️      de-fra-wg-102 
  🇩🇪    Germany         Frankfurt           10.124.1.239  146.70.117.226   2001:ac8:20:276::f001                 10     3493      ❌     M247           ✔️      de-fra-wg-103 
  🇩🇪    Germany         Frankfurt           10.124.1.240  146.70.107.194   2001:ac8:20:277::f001                 10     3494      ❌     M247           ✔️      de-fra-wg-104 
@@ -256,6 +258,7 @@ Total active proxies: 430
  🇸🇪    Sweden          Gothenburg          10.124.1.56   185.209.199.7    2a03:1b20:5:f011:6::f001              20     3310      ✔️     31173          ✔️      se-got-wg-006 
  🇸🇪    Sweden          Gothenburg          10.124.1.60   185.209.199.12   2a03:1b20:5:f011:7::f001              20     3314      ✔️     31173          ✔️      se-got-wg-007 
  🇸🇪    Sweden          Gothenburg          10.124.1.61   185.209.199.17   2a03:1b20:5:f011:8::f001              20     3315      ✔️     31173          ✔️      se-got-wg-008 
+ 🇸🇪    Sweden          Gothenburg          10.124.1.185  185.213.154.70   2a03:1b20:5:f011::aaaf                10     3439      ✔️     31173          ✔️      se-got-wg-101 
  🇸🇪    Sweden          Malmö               10.124.0.2    193.138.218.220  2a03:1b20:1:f410::a01f                40     3002      ✔️     31173          ✔️      se-mma-wg-001 
  🇸🇪    Sweden          Malmö               10.124.0.183  193.138.218.80   2a03:1b20:1:f410::a15f                10     3183      ✔️     31173          ✔️      se-mma-wg-002 
  🇸🇪    Sweden          Malmö               10.124.0.186  193.138.218.83   2a03:1b20:1:f410::a18f                10     3186      ✔️     31173          ✔️      se-mma-wg-003 

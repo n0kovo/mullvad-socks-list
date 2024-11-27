@@ -86,10 +86,12 @@
 10.124.0.91 Europe/Berlin
 10.124.0.92 Europe/Berlin
 10.124.0.54 Europe/Berlin
+10.124.1.26 Europe/Berlin
 10.124.0.222 Europe/Berlin
 10.124.1.24 Europe/Berlin
 10.124.1.25 Europe/Berlin
 10.124.0.240 Europe/Berlin
+10.124.1.243 Europe/Berlin
 10.124.1.238 Europe/Berlin
 10.124.1.239 Europe/Berlin
 10.124.1.240 Europe/Berlin
@@ -253,6 +255,7 @@
 10.124.1.56 Europe/Stockholm
 10.124.1.60 Europe/Stockholm
 10.124.1.61 Europe/Stockholm
+10.124.1.185 Europe/Stockholm
 10.124.0.2 Europe/Stockholm
 10.124.0.183 Europe/Stockholm
 10.124.0.186 Europe/Stockholm
