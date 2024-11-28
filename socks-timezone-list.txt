@@ -204,6 +204,8 @@
 10.124.0.204 America/Mexico_City
 10.124.0.205 America/Mexico_City
 10.124.0.206 America/Mexico_City
+10.124.0.97 Africa/Lagos
+10.124.0.98 Africa/Lagos
 10.124.0.4 Europe/Amsterdam
 10.124.0.39 Europe/Amsterdam
 10.124.0.40 Europe/Amsterdam
