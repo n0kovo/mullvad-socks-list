@@ -267,6 +267,8 @@
 10.124.0.186 Europe/Stockholm
 10.124.0.28 Europe/Stockholm
 10.124.0.185 Europe/Stockholm
+10.124.0.18 Europe/Stockholm
+10.124.0.38 Europe/Stockholm
 10.124.0.189 Europe/Stockholm
 10.124.0.190 Europe/Stockholm
 10.124.0.191 Europe/Stockholm
@@ -377,6 +379,7 @@
 10.124.0.153 America/New_York
 10.124.1.190 America/New_York
 10.124.1.191 America/New_York
+10.124.1.192 America/New_York
 10.124.1.230 America/New_York
 10.124.1.231 America/New_York
 10.124.1.232 America/New_York
