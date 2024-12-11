@@ -1,5 +1,5 @@
-Date: 2024-12-11 06-52-17 UTC
-Total active proxies: 438
+Date: 2024-12-11 13-14-34 UTC
+Total active proxies: 441
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -62,6 +62,7 @@ Total active proxies: 438
  🇨🇭    Switzerland     Zurich              10.124.1.214  138.199.6.207    2a02:6ea0:d406:2::a19f                10     3468      ❌     DataPacket     ✔️      ch-zrh-wg-402 
  🇨🇭    Switzerland     Zurich              10.124.1.215  138.199.6.220    2a02:6ea0:d406:3::a20f                10     3469      ❌     DataPacket     ✔️      ch-zrh-wg-403 
  🇨🇭    Switzerland     Zurich              10.124.1.216  138.199.6.233    2a02:6ea0:d406:4::a21f                10     3470      ❌     DataPacket     ✔️      ch-zrh-wg-404 
+ 🇨🇭    Switzerland     Zurich              10.124.2.12   146.70.134.98    2001:ac8:28:a7::a36f                  10     3520      ❌     M247           ✔️      ch-zrh-wg-501 
  🇨🇭    Switzerland     Zurich              10.124.2.6    146.70.126.162   2001:ac8:28:a1::f001                  10     3514      ❌     M247           ✔️      ch-zrh-wg-502 
  🇨🇭    Switzerland     Zurich              10.124.2.7    146.70.126.194   2001:ac8:28:a2::f001                  10     3515      ❌     M247           ✔️      ch-zrh-wg-503 
  🇨🇭    Switzerland     Zurich              10.124.2.8    146.70.126.226   2001:ac8:28:a3::f001                  10     3516      ❌     M247           ✔️      ch-zrh-wg-504 
@@ -274,6 +275,8 @@ Total active proxies: 438
  🇸🇪    Sweden          Malmö               10.124.0.189  45.83.220.68     2a03:1b20:1:e011::a21f                20     3189      ✔️     31173          ✔️      se-mma-wg-101 
  🇸🇪    Sweden          Malmö               10.124.0.190  45.83.220.69     2a03:1b20:1:e011::a22f                20     3190      ✔️     31173          ✔️      se-mma-wg-102 
  🇸🇪    Sweden          Malmö               10.124.0.191  45.83.220.70     2a03:1b20:1:e011::a23f                10     3191      ✔️     31173          ✔️      se-mma-wg-103 
+ 🇸🇪    Sweden          Malmö               10.124.1.80   45.129.59.19     2a03:1b20:1:e011::f701                40     3334      ✔️     31173          ✔️      se-mma-wg-111 
+ 🇸🇪    Sweden          Malmö               10.124.1.77   45.129.59.129    2a03:1b20:1:e011::f601                40     3331      ✔️     31173          ✔️      se-mma-wg-112 
  🇸🇪    Sweden          Stockholm           10.124.1.184  185.195.233.76   2a03:1b20:4:f011::999f                20     3438      ✔️     31173          ✔️      se-sto-wg-001 
  🇸🇪    Sweden          Stockholm           10.124.0.11   185.65.135.67    2a03:1b20:4:f011::a02f                20     3011      ✔️     31173          ✔️      se-sto-wg-002 
  🇸🇪    Sweden          Stockholm           10.124.2.48   185.65.135.68    2a03:1b20:4:f011::f201                20     3556      ✔️     31173          ✔️      se-sto-wg-003 
