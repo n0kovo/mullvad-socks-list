@@ -1,5 +1,5 @@
-Date: 2024-12-19 06-51-15 UTC
-Total active proxies: 449
+Date: 2024-12-19 13-05-43 UTC
+Total active proxies: 451
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -408,6 +408,8 @@ Total active proxies: 449
  🇺🇸    USA             New York, NY        10.124.1.46   146.70.171.66    2a0d:5600:24:1372::f001               10     3300      ❌     M247           ✔️      us-nyc-wg-604 
  🇺🇸    USA             New York, NY        10.124.1.47   146.70.171.130   2a0d:5600:24:1374::f001               10     3301      ❌     M247           ✔️      us-nyc-wg-605 
  🇺🇸    USA             New York, NY        10.124.0.235  146.70.168.194   2a0d:5600:24:1379::f001               10     3235      ❌     M247           ✔️      us-nyc-wg-606 
+ 🇺🇸    USA             New York, NY        10.124.0.131  23.162.8.3       2602:fa1f:100:1::f001                 10     3131      ❌     xtom           ✔️      us-nyc-wg-701 
+ 🇺🇸    USA             New York, NY        10.124.0.132  23.162.8.67      2602:fa1f:100:2::f001                 10     3132      ❌     xtom           ✔️      us-nyc-wg-702 
  🇺🇸    USA             Phoenix, AZ         10.124.0.34   198.54.133.98    2607:9000:7000:14::103f               10     3034      ❌     Tzulo          ✔️      us-phx-wg-101 
  🇺🇸    USA             Phoenix, AZ         10.124.0.31   198.54.133.130   2607:9000:7000:15::b89f               10     3031      ❌     Tzulo          ✔️      us-phx-wg-102 
  🇺🇸    USA             Phoenix, AZ         10.124.0.32   198.54.133.162   2607:9000:7000:16::f001               10     3032      ❌     Tzulo          ✔️      us-phx-wg-103 
