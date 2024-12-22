@@ -169,9 +169,9 @@
 10.124.2.15 Europe/London
 10.124.2.16 Europe/London
 10.124.2.17 Europe/London
-;; communications error to 1.1.1.1#53: timed out Europe/London
+10.124.2.18 Europe/London
 10.124.0.159 Europe/Athens
-;; Warning: ID mismatch: expected ID 2855, got 40548 Europe/Athens
+10.124.0.166 Europe/Athens
 10.124.1.237 Asia/Hong_Kong
 10.124.0.192 Asia/Hong_Kong
 10.124.0.202 Asia/Hong_Kong
