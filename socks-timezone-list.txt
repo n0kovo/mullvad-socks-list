@@ -180,6 +180,8 @@
 10.124.0.74 Europe/Zagreb
 10.124.0.227 Europe/Budapest
 10.124.0.228 Europe/Budapest
+10.124.0.135 Europe/Budapest
+10.124.0.137 Europe/Budapest
 10.124.0.254 Asia/Jakarta
 10.124.1.1 Asia/Jakarta
 10.124.1.58 Europe/Dublin
@@ -283,7 +285,10 @@
 10.124.0.172 Europe/Stockholm
 10.124.0.173 Europe/Stockholm
 10.124.0.50 Europe/Stockholm
+10.124.0.61 Europe/Stockholm
+10.124.0.62 Europe/Stockholm
 10.124.0.77 Europe/Stockholm
+10.124.0.143 Europe/Stockholm
 10.124.0.80 Europe/Stockholm
 10.124.0.46 Europe/Stockholm
 10.124.0.52 Europe/Stockholm
