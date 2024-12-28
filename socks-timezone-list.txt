@@ -162,7 +162,7 @@
 10.124.1.249 Europe/London
 10.124.1.247 Europe/London
 10.124.1.248 Europe/London
-10.124.0.237 Europe/London
+;; communications error to 1.1.1.1#53: timed out Europe/London
 10.124.2.20 Europe/London
 10.124.2.13 Europe/London
 10.124.2.14 Europe/London
@@ -358,7 +358,7 @@
 10.124.0.175 America/Denver
 10.124.0.176 America/Denver
 10.124.0.177 America/Denver
-10.124.1.196 America/Denver
+;; communications error to 1.1.1.1#53: timed out America/Denver
 10.124.1.197 America/Denver
 10.124.1.198 America/Denver
 10.124.0.16 America/Chicago
