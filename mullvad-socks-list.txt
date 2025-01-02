@@ -1,5 +1,5 @@
-Date: 2025-01-02 02-05-05 UTC
-Total active proxies: 457
+Date: 2025-01-02 06-49-25 UTC
+Total active proxies: 456
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -351,7 +351,6 @@ Total active proxies: 457
  🇺🇸    USA             Dallas, TX          10.124.1.226  37.19.200.156    2a02:6ea0:d20c:3::b72f                10     3480      ❌     DataPacket     ✔️      us-dal-wg-401 
  🇺🇸    USA             Dallas, TX          10.124.1.225  37.19.200.143    2a02:6ea0:d20c:2::b71f                10     3479      ❌     DataPacket     ✔️      us-dal-wg-402 
  🇺🇸    USA             Dallas, TX          10.124.1.224  37.19.200.130    2a02:6ea0:d20c:1::f001                10     3478      ❌     DataPacket     ✔️      us-dal-wg-403 
- 🇺🇸    USA             Dallas, TX          10.124.0.86   206.217.206.27   2606:2e00:8007:a:ae1f:6bff:fef5:7bf5  10     3086      ❌     100TB          ✔️      us-dal-wg-501 
  🇺🇸    USA             Dallas, TX          10.124.0.88   206.217.206.47   2606:2e00:8007:a:ae1f:6bff:fef5:7b21  10     3088      ❌     100TB          ✔️      us-dal-wg-502 
  🇺🇸    USA             Dallas, TX          10.124.1.9    206.217.206.67   2606:2e00:8007:a:ae1f:6bff:fef5:7beb  10     3263      ❌     100TB          ✔️      us-dal-wg-503 
  🇺🇸    USA             Dallas, TX          10.124.1.10   206.217.206.87   2606:2e00:8007:a:ae1f:6bff:fef5:7b1b  10     3264      ❌     100TB          ✔️      us-dal-wg-504 
