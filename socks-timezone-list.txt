@@ -232,7 +232,7 @@
 10.124.0.110 Europe/Rome
 10.124.0.56 Europe/Oslo
 10.124.0.136 Europe/Oslo
-10.124.0.244 Europe/Oslo
+;; communications error to 1.1.1.1#53: timed out Europe/Oslo
 10.124.0.245 Europe/Oslo
 10.124.2.38 Europe/Oslo
 10.124.2.39 Europe/Oslo
@@ -242,6 +242,8 @@
 10.124.0.219 Pacific/Auckland
 10.124.1.81 America/Lima
 10.124.1.82 America/Lima
+10.124.0.145 Asia/Manila
+10.124.0.146 Asia/Manila
 10.124.1.219 Europe/Warsaw
 10.124.1.220 Europe/Warsaw
 10.124.1.221 Europe/Warsaw
