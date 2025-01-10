@@ -1,5 +1,5 @@
-Date: 2025-01-10 13-02-47 UTC
-Total active proxies: 457
+Date: 2025-01-10 18-49-10 UTC
+Total active proxies: 456
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -218,7 +218,6 @@ Total active proxies: 457
  🇳🇱    Netherlands     Amsterdam           10.124.0.39   185.65.134.82    2a03:1b20:3:f011::a02f                20     3039      ✔️     31173          ✔️      nl-ams-wg-002 
  🇳🇱    Netherlands     Amsterdam           10.124.0.40   185.65.134.83    2a03:1b20:3:f011::f201                20     3040      ✔️     31173          ✔️      nl-ams-wg-003 
  🇳🇱    Netherlands     Amsterdam           10.124.0.113  193.32.249.69    2a03:1b20:3:f011::f301                20     3113      ✔️     31173          ✔️      nl-ams-wg-004 
- 🇳🇱    Netherlands     Amsterdam           10.124.0.114  193.32.249.70    2a03:1b20:3:f011::f401                20     3114      ✔️     31173          ✔️      nl-ams-wg-005 
  🇳🇱    Netherlands     Amsterdam           10.124.0.94   185.65.134.86    2a03:1b20:3:f011::f501                20     3094      ✔️     31173          ✔️      nl-ams-wg-006 
  🇳🇱    Netherlands     Amsterdam           10.124.0.243  185.65.134.76    2a03:1b20:3:f011::f701                20     3243      ✔️     31173          ✔️      nl-ams-wg-007 
  🇳🇱    Netherlands     Amsterdam           10.124.0.96   193.32.249.73    2a03:1b20:3:f011::f801                20     3096      ✔️     31173          ✔️      nl-ams-wg-008 
