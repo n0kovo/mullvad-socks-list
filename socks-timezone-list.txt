@@ -91,7 +91,6 @@
 10.124.1.26 Europe/Berlin
 10.124.1.27 Europe/Berlin
 10.124.0.222 Europe/Berlin
-10.124.1.24 Europe/Berlin
 10.124.1.25 Europe/Berlin
 10.124.0.240 Europe/Berlin
 10.124.1.243 Europe/Berlin
@@ -386,9 +385,9 @@
 10.124.1.204 America/New_York
 10.124.1.200 America/New_York
 10.124.1.199 America/New_York
-10.124.0.14 America/New_York
+;; communications error to 1.1.1.1#53: timed out America/New_York
 10.124.0.82 America/New_York
-10.124.0.89 America/New_York
+;; Warning: ID mismatch: expected ID 60753, got 24166 America/New_York
 10.124.0.157 America/New_York
 10.124.0.153 America/New_York
 10.124.1.190 America/New_York
