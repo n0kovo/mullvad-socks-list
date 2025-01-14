@@ -232,7 +232,7 @@
 10.124.0.244 Europe/Oslo
 10.124.0.245 Europe/Oslo
 10.124.2.38 Europe/Oslo
-10.124.2.39 Europe/Oslo
+;; communications error to 1.1.1.1#53: timed out Europe/Oslo
 10.124.2.40 Europe/Oslo
 10.124.2.41 Europe/Oslo
 10.124.0.218 Pacific/Auckland
@@ -359,6 +359,13 @@
 10.124.1.196 America/Denver
 10.124.1.197 America/Denver
 10.124.1.198 America/Denver
+10.124.0.147 America/Chicago
+10.124.0.148 America/Chicago
+10.124.0.149 America/Chicago
+10.124.0.150 America/Chicago
+10.124.1.36 America/Chicago
+10.124.1.37 America/Chicago
+10.124.1.38 America/Chicago
 10.124.0.16 America/Chicago
 10.124.0.23 America/Chicago
 10.124.1.205 America/Chicago
