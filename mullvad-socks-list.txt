@@ -1,5 +1,5 @@
-Date: 2025-01-15 02-03-31 UTC
-Total active proxies: 462
+Date: 2025-01-15 06-47-49 UTC
+Total active proxies: 463
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -366,6 +366,7 @@ Total active proxies: 462
  🇺🇸    USA             Denver, CO          10.124.0.148  23.234.68.127    2607:9000:2000:42::f001               10     3148      ❌     Tzulo          ✔️      us-den-wg-202 
  🇺🇸    USA             Denver, CO          10.124.0.149  23.234.69.2      2607:9000:2000:43::f001               10     3149      ❌     Tzulo          ✔️      us-den-wg-203 
  🇺🇸    USA             Denver, CO          10.124.0.150  23.234.69.127    2607:9000:2000:44::f001               10     3150      ❌     Tzulo          ✔️      us-den-wg-204 
+ 🇺🇸    USA             Denver, CO          10.124.0.151  23.234.70.2      2607:9000:2000:45::f001               10     3151      ❌     Tzulo          ✔️      us-den-wg-205 
  🇺🇸    USA             Denver, CO          10.124.1.36   23.234.70.127    2607:9000:2000:46::f001               10     3290      ❌     Tzulo          ✔️      us-den-wg-206 
  🇺🇸    USA             Denver, CO          10.124.1.37   23.234.71.2      2607:9000:2000:47::f001               10     3291      ❌     Tzulo          ✔️      us-den-wg-207 
  🇺🇸    USA             Denver, CO          10.124.1.38   23.234.71.127    2607:9000:2000:48::f001               10     3292      ❌     Tzulo          ✔️      us-den-wg-208 
