@@ -1,5 +1,5 @@
-Date: 2025-01-22 02-05-13 UTC
-Total active proxies: 477
+Date: 2025-01-22 06-49-06 UTC
+Total active proxies: 479
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -211,6 +211,8 @@ Total active proxies: 477
  🇲🇽    Mexico          Queretaro           10.124.0.204  149.88.22.142    2a02:6ea0:f803:1::f001                10     3204      ❌     DataPacket     ✔️      mx-qro-wg-002 
  🇲🇽    Mexico          Queretaro           10.124.0.205  149.88.22.155    2a02:6ea0:f803:2::f001                10     3205      ❌     DataPacket     ✔️      mx-qro-wg-003 
  🇲🇽    Mexico          Queretaro           10.124.0.206  149.88.22.168    2a02:6ea0:f803:3::f001                10     3206      ❌     DataPacket     ✔️      mx-qro-wg-004 
+ 🇲🇾    Malaysia        Kuala Lumpur        10.124.1.39   98.98.47.130     2602:ffe4:c20:112::f001               10     3293      ❌     Zenlayer       ✔️      my-kul-wg-001 
+ 🇲🇾    Malaysia        Kuala Lumpur        10.124.1.40   162.128.129.98   2602:ffe4:c20:112::f101               10     3294      ❌     Zenlayer       ✔️      my-kul-wg-002 
  🇳🇬    Nigeria         Lagos               10.124.0.97   79.127.149.130   2a02:6ea0:5400:1::f001                10     3097      ❌     DataPacket     ✔️      ng-los-wg-001 
  🇳🇬    Nigeria         Lagos               10.124.0.98   79.127.149.159   2a02:6ea0:5400:2::f001                10     3098      ❌     DataPacket     ✔️      ng-los-wg-002 
  🇳🇱    Netherlands     Amsterdam           10.124.0.4    193.32.249.66    2a03:1b20:3:f011::f001                20     3004      ✔️     31173          ✔️      nl-ams-wg-001 
