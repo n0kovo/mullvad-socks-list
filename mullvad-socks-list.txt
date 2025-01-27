@@ -1,5 +1,5 @@
-Date: 2025-01-26 18-47-13 UTC
-Total active proxies: 479
+Date: 2025-01-27 06-48-50 UTC
+Total active proxies: 473
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -327,10 +327,6 @@ Total active proxies: 479
  🇺🇸    USA             Boston, MA          10.124.0.126  43.225.189.162   2a06:3040:12:610::a02f                10     3126      ❌     HostRoyale     ✔️      us-bos-wg-002 
  🇺🇸    USA             Boston, MA          10.124.0.127  149.40.50.98     2a02:6ea0:f901::a01f                  10     3127      ❌     DataPacket     ✔️      us-bos-wg-101 
  🇺🇸    USA             Boston, MA          10.124.0.197  149.40.50.112    2a02:6ea0:f901:1::a02f                10     3197      ❌     DataPacket     ✔️      us-bos-wg-102 
- 🇺🇸    USA             Chicago, IL         10.124.0.168  66.63.167.114    2607:fcd0:bb80:403::b32f              10     3168      ❌     Quadranet      ✔️      us-chi-wg-101 
- 🇺🇸    USA             Chicago, IL         10.124.0.165  66.63.167.194    2607:fcd0:bb80:402::f001              10     3165      ❌     Quadranet      ✔️      us-chi-wg-102 
- 🇺🇸    USA             Chicago, IL         10.124.0.188  66.63.167.162    2607:fcd0:bb80:404::b44f              10     3188      ❌     Quadranet      ✔️      us-chi-wg-103 
- 🇺🇸    USA             Chicago, IL         10.124.1.182  66.63.167.146    2607:fcd0:bb80:405::f001              10     3436      ❌     Quadranet      ✔️      us-chi-wg-104 
  🇺🇸    USA             Chicago, IL         10.124.1.201  87.249.134.1     2a02:6ea0:c61f::b63f                  10     3455      ❌     DataPacket     ✔️      us-chi-wg-201 
  🇺🇸    USA             Chicago, IL         10.124.1.202  87.249.134.14    2a02:6ea0:c61f:1::b64f                10     3456      ❌     DataPacket     ✔️      us-chi-wg-202 
  🇺🇸    USA             Chicago, IL         10.124.1.203  87.249.134.27    2a02:6ea0:c61f:2::f001                10     3457      ❌     DataPacket     ✔️      us-chi-wg-203 
@@ -383,8 +379,6 @@ Total active proxies: 479
  🇺🇸    USA             Los Angeles, CA     10.124.0.83   169.150.203.2    2a02:6ea0:c859:1::a01f                10     3083      ❌     DataPacket     ✔️      us-lax-wg-201 
  🇺🇸    USA             Los Angeles, CA     10.124.2.29   169.150.203.15   2a02:6ea0:c859:2::a02f                10     3537      ❌     DataPacket     ✔️      us-lax-wg-202 
  🇺🇸    USA             Los Angeles, CA     10.124.2.30   169.150.203.28   2a02:6ea0:c859:3::a03f                10     3538      ❌     DataPacket     ✔️      us-lax-wg-203 
- 🇺🇸    USA             Los Angeles, CA     10.124.0.162  204.152.216.98   2607:fcd0:100:7c01::b29f              10     3162      ❌     Quadranet      ✔️      us-lax-wg-302 
- 🇺🇸    USA             Los Angeles, CA     10.124.0.163  204.152.216.114  2607:fcd0:100:7c02::b30f              10     3163      ❌     Quadranet      ✔️      us-lax-wg-303 
  🇺🇸    USA             Los Angeles, CA     10.124.1.48   146.70.173.2     2a0d:5600:8:4::d1f                    10     3302      ❌     M247           ✔️      us-lax-wg-401 
  🇺🇸    USA             Los Angeles, CA     10.124.1.49   146.70.173.66    2a0d:5600:8:6::d2f                    10     3303      ❌     M247           ✔️      us-lax-wg-402 
  🇺🇸    USA             Los Angeles, CA     10.124.1.50   146.70.173.130   2a0d:5600:8:d::d3f                    10     3304      ❌     M247           ✔️      us-lax-wg-403 
