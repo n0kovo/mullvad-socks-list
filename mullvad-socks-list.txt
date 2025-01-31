@@ -1,5 +1,5 @@
-Date: 2025-01-31 06-48-32 UTC
-Total active proxies: 469
+Date: 2025-01-31 13-01-13 UTC
+Total active proxies: 472
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -157,6 +157,9 @@ Total active proxies: 469
  🇬🇧    UK              London              10.124.1.28   185.195.232.70   2a03:1b20:7:f011::a15f                20     3282      ✔️     31173          ✔️      gb-lon-wg-007 
  🇬🇧    UK              London              10.124.1.62   141.98.252.138   2a03:1b20:7:f011::f801                20     3316      ✔️     31173          ✔️      gb-lon-wg-008 
  🇬🇧    UK              London              10.124.1.34   185.248.85.3     2a0b:89c1:3::a33f                     10     3288      ❌     xtom           ✔️      gb-lon-wg-201 
+ 🇬🇧    UK              London              10.124.1.35   185.248.85.18    2a0b:89c1:3::a34f                     10     3289      ❌     xtom           ✔️      gb-lon-wg-202 
+ 🇬🇧    UK              London              10.124.1.91   185.248.85.33    2a0b:89c1:3::a35f                     10     3345      ❌     xtom           ✔️      gb-lon-wg-203 
+ 🇬🇧    UK              London              10.124.1.164  185.248.85.48    2a0b:89c1:3::a36f                     10     3418      ❌     xtom           ✔️      gb-lon-wg-204 
  🇬🇧    UK              London              10.124.1.249  146.70.119.66    2001:ac8:31:f007::a39f                10     3503      ❌     M247           ✔️      gb-lon-wg-301 
  🇬🇧    UK              London              10.124.1.247  146.70.119.2     2001:ac8:31:f005::a37f                10     3501      ❌     M247           ✔️      gb-lon-wg-302 
  🇬🇧    UK              London              10.124.1.248  146.70.119.34    2001:ac8:31:f006::a38f                10     3502      ❌     M247           ✔️      gb-lon-wg-303 
