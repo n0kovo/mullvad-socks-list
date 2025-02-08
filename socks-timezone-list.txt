@@ -5,11 +5,11 @@
 10.124.2.37 Europe/Vienna
 10.124.1.73 Europe/Vienna
 10.124.1.74 Europe/Vienna
-;; communications error to 1.1.1.1#53: timed out Australia/Adelaide
+10.124.0.99 Australia/Adelaide
 10.124.0.156 Australia/Adelaide
 10.124.0.220 Australia/Brisbane
 10.124.0.221 Australia/Brisbane
-;; Warning: ID mismatch: expected ID 56717, got 34050 Australia/Melbourne
+10.124.1.53 Australia/Melbourne
 10.124.1.54 Australia/Melbourne
 10.124.1.55 Australia/Perth
 10.124.1.57 Australia/Perth
