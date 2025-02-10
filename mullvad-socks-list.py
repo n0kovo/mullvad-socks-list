@@ -54,7 +54,7 @@ COUNTRY_TO_CONTINENT = {
 }
 
 def write_to_file(filename, ips):
-    with open((Path("./repo") / filename.with_suffix('.txt')).as_posix(), 'w') as f:
+    with open((Path("./repo") / Path(filename).with_suffix('.txt')).as_posix(), 'w') as f:
         for ip in ips:
             f.write(f"{ip}:1080\n")
 
