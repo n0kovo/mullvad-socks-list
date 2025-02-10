@@ -1,138 +1,107 @@
 import requests
 import pydig
-from prettytable import PrettyTable
-import flag
-from random import randint
-from datetime import datetime,timezone
-from threading import Thread
+from threading import Thread, Lock
 from queue import Queue
-import geoip2.database
+from collections import defaultdict
 
-def resolver(queue, resolved, failed):
-    resolver = pydig.Resolver(nameservers=['1.1.1.1'])
+def resolver(queue, resolved, failed, resolved_lock, failed_lock):
+    resolver = pydig.Resolver(nameservers=['1.1.1.1', '8.8.8.8', '208.67.220.220', '208.67.222.222'])
     while True:
         item = queue.get()
-        socks_addr = resolver.query(item, 'A')
-        if len(socks_addr) > 0 and socks_addr is not ['']:
-            resolved[item] = socks_addr[0]
+        try:
+            socks_addr = resolver.query(item, 'A')
+        except Exception as e:
+            socks_addr = []
+        if len(socks_addr) > 0 and socks_addr != ['']:
+            with resolved_lock:
+                resolved[item] = socks_addr[0]
         else:
-            if item in failed:
-                count = failed[item]
-                if count < 3:
-                    failed[item] = count + 1
+            with failed_lock:
+                if item in failed:
+                    count = failed[item]
+                    if count < 3:
+                        failed[item] = count + 1
+                        queue.put(item)
+                else:
+                    failed[item] = 1
                     queue.put(item)
-            else:
-                failed[item] = 1
-                queue.put(item)
-        #print("Left to resolve:", queue.qsize(), end="\r")
         queue.task_done()
 
-geoip2_reader = geoip2.database.Reader("GeoLite2-City.mmdb")
+COUNTRY_TO_CONTINENT = {
+    'africa': [
+        'dz', 'ao', 'bj', 'bw', 'bf', 'bi', 'cv', 'cm', 'cf', 'td', 'km', 'cd', 'cg', 'dj', 'eg', 'gq', 'er', 'sz', 'et', 'ga', 'gm', 'gh', 'gn', 'gw', 'ci', 'ke', 'ls', 'lr', 'ly', 'mg', 'mw', 'ml', 'mr', 'mu', 'ma', 'mz', 'na', 'ne', 'ng', 'rw', 'st', 'sn', 'sc', 'sl', 'so', 'za', 'ss', 'sd', 'tz', 'tg', 'tn', 'ug', 'zm', 'zw'
+    ],
+    'antarctica': [
+        'aq'
+    ],
+    'asia': [
+        'af', 'am', 'az', 'bh', 'bd', 'bt', 'bn', 'kh', 'cn', 'cy', 'ge', 'in', 'id', 'ir', 'iq', 'il', 'jp', 'jo', 'kz', 'kw', 'kg', 'la', 'lb', 'my', 'mv', 'mn', 'mm', 'np', 'kp', 'om', 'pk', 'ps', 'ph', 'qa', 'sa', 'sg', 'kr', 'lk', 'sy', 'tw', 'tj', 'th', 'tr', 'tm', 'ae', 'uz', 'vn', 'ye'
+    ],
+    'europe': [
+        'al', 'ad', 'at', 'by', 'be', 'ba', 'bg', 'hr', 'cz', 'dk', 'ee', 'fi', 'fr', 'de', 'gr', 'hu', 'is', 'ie', 'it', 'xk', 'lv', 'li', 'lt', 'lu', 'mt', 'md', 'mc', 'me', 'nl', 'mk', 'no', 'pl', 'pt', 'ro', 'ru', 'sm', 'rs', 'sk', 'si', 'es', 'se', 'ch', 'ua', 'gb', 'va'
+    ],
+    'north_america': [
+        'ag', 'bs', 'bb', 'bz', 'ca', 'cr', 'cu', 'dm', 'do', 'sv', 'gd', 'gt', 'ht', 'hn', 'jm', 'mx', 'ni', 'pa', 'kn', 'lc', 'vc', 'tt', 'us'
+    ],
+    'oceania': [
+        'au', 'fj', 'ki', 'mh', 'fm', 'nr', 'nz', 'pw', 'pg', 'ws', 'sb', 'to', 'tv', 'vu'
+    ],
+    'south_america': [
+        'ar', 'bo', 'br', 'cl', 'co', 'ec', 'gy', 'py', 'pe', 'sr', 'uy', 've'
+    ]
+}
 
-def ip_to_timezone(ipv4):
-    global geoip2_reader
-    try:
-        response = geoip2_reader.city(ipv4)
-        timezone = response.location.time_zone
-        if timezone:
-            return timezone
-        else:
-            return None
-    except:
-        return None
+def write_to_file(filename, ips):
+    with open(f'{filename}.txt', 'w') as f:
+        for ip in ips:
+            f.write(f"{ip}:1080\n")
 
 queue = Queue()
 resolved = {}
 failed = {}
+resolved_lock = Lock()
+failed_lock = Lock()
 
 r = requests.get('https://api.mullvad.net/www/relays/wireguard/').json()
 
 for host in r:
-    if host['socks_name'] is not None and host['active']:
+    if host.get('socks_name') and host['active']:
         queue.put(host['socks_name'])
 
-total_proxies = queue.qsize()
 threads = []
-for i in range(0, 3):
-    threads.append(Thread(target=resolver, args=(queue,resolved,failed), daemon=True))
-    threads[i].start()
+for i in range(3):
+    thread = Thread(target=resolver, args=(queue, resolved, failed, resolved_lock, failed_lock), daemon=True)
+    thread.start()
+    threads.append(thread)
 
 queue.join()
 
-good = PrettyTable()
-good.field_names = ["flag", "country", "city", "socks5", "ipv4", "ipv6", "speed", "multihop", "owned", "provider", "stboot", "hostname"]
-good.align = 'l'
-good.border = False
-
-bad = PrettyTable()
-bad.field_names = ["flag", "country", "city", "socks5", "ipv4", "ipv6", "speed", "multihop", "owned", "provider", "stboot", "hostname"]
-bad.align = 'l'
-bad.border = False
-
-socks_ipv4_list = []
-socks_timezone_list = []
+country_ips = defaultdict(list)
+continent_ips = defaultdict(list)
 
 for host in r:
-    if host['socks_name'] is not None and host['active']:
+    socks_name = host.get('socks_name')
+    if socks_name and host['active'] and socks_name in resolved:
+        socks_addr = resolved[socks_name]
+        country_code = host['country_code']
+        country_ips[country_code].append(socks_addr)
+        
+        continent = None
+        for cont, countries in COUNTRY_TO_CONTINENT.items():
+            if country_code in countries:
+                continent = cont
+                break
+        if continent:
+            continent_ips[continent].append(socks_addr)
 
-        fl = flag.flag(host['country_code'])
-        owned = '✔️' if host['owned'] else '❌'
-        stboot = '✔️' if host['stboot'] else '❌'
+for country_code, ips in country_ips.items():
+    write_to_file(f'country_{country_code}', ips)
 
-        if host['socks_name'] in resolved:
-            socks_addr = resolved[host['socks_name']]
-            good.add_row([fl,
-                host['country_name'],
-                host['city_name'],
-                socks_addr,
-                host['ipv4_addr_in'],
-                host['ipv6_addr_in'],
-                host['network_port_speed'],
-                host['multihop_port'],
-                owned,
-                host['provider'],
-                stboot,
-                host['hostname'],
-            ])
+for continent, ips in continent_ips.items():
+    write_to_file(f'continent_{continent}', ips)
 
-            # socks and ipv4 list
-            socks_ipv4_list.append('%s %s' % (socks_addr, host['ipv4_addr_in']))
-
-            # socks and timezone list
-            ip_timezone = ip_to_timezone(host['ipv4_addr_in'])
-            if ip_timezone:
-                socks_timezone_list.append(f'{socks_addr} {ip_timezone}')
-
-        elif host['socks_name'] in failed:
-            bad.add_row([fl,
-                host['country_name'],
-                host['city_name'],
-                host['socks_name'],
-                host['ipv4_addr_in'],
-                host['ipv6_addr_in'],
-                host['network_port_speed'],
-                host['multihop_port'],
-                owned,
-                host['provider'],
-                stboot,
-                host['hostname'],
-            ])
-        else:
-            break
-
-with open('repo/mullvad-socks-list.txt', 'a') as file:
-    now_utc = datetime.now(timezone.utc)
-    file.write('Date: %s\n' % now_utc.strftime('%Y-%m-%d %H-%M-%S %Z'))
-    file.write('Total active proxies: %s\n' % total_proxies)
-    file.write(good.get_string()+ '\n')
-    if len(failed) > 0:
-        file.write('Failed to resovle:\n')
-        file.write(bad.get_string() + '\n')
-
-with open('repo/socks-ipv4_in-list.txt', 'a') as file:
-    for item in socks_ipv4_list:
-        file.write("%s\n" % item)
-
-with open('repo/socks-timezone-list.txt', 'a') as file:
-    for item in socks_timezone_list:
-        file.write("%s\n" % item)
+all_ips = [resolved[host['socks_name']] for host in r 
+           if host.get('socks_name') and 
+           host['active'] and 
+           host['socks_name'] in resolved]
+write_to_file('all_proxies', all_ips)
