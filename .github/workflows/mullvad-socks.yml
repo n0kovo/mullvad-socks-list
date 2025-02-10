@@ -32,7 +32,6 @@ jobs:
 
     - name: Download and install script dependencies
       run: |
-        wget https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-City.mmdb
         pip3 install -r requirements.txt
 
     - name: Generate list
