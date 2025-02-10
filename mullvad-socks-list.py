@@ -3,6 +3,8 @@ import pydig
 from threading import Thread, Lock
 from queue import Queue
 from collections import defaultdict
+from pathlib import Path
+
 
 def resolver(queue, resolved, failed, resolved_lock, failed_lock):
     resolver = pydig.Resolver(nameservers=['1.1.1.1', '8.8.8.8', '208.67.220.220', '208.67.222.222'])
@@ -52,7 +54,7 @@ COUNTRY_TO_CONTINENT = {
 }
 
 def write_to_file(filename, ips):
-    with open(f'{filename}.txt', 'w') as f:
+    with open((Path("./repo") / filename.with_suffix('.txt')).as_posix(), 'w') as f:
         for ip in ips:
             f.write(f"{ip}:1080\n")
 
