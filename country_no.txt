@@ -1,4 +1,4 @@
-socks5://10.124.0.6:1080
+socks5://;; communications error to 8.8.8.8#53: timed out:1080
 socks5://10.124.0.108:1080
 socks5://10.124.0.109:1080
 socks5://10.124.0.110:1080
