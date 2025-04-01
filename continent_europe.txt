@@ -1,10 +1,10 @@
 socks5://10.124.0.155:1080
 socks5://10.124.0.212:1080
-socks5://10.124.2.35:1080
+socks5://;; communications error to 1.1.1.1#53: timed out:1080
 socks5://10.124.2.36:1080
 socks5://10.124.2.37:1080
 socks5://10.124.1.73:1080
-socks5://10.124.1.74:1080
+socks5://;; communications error to 8.8.8.8#53: timed out:1080
 socks5://10.124.2.42:1080
 socks5://10.124.2.43:1080
 socks5://10.124.2.44:1080
