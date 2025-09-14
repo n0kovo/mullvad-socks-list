@@ -266,9 +266,9 @@ socks5://10.124.2.46:1080
 socks5://10.124.0.198:1080
 socks5://10.124.0.199:1080
 socks5://10.124.1.75:1080
-socks5://10.124.1.76:1080
+socks5://;; communications error to 8.8.8.8#53: timed out:1080
 socks5://10.124.2.27:1080
-socks5://10.124.0.93:1080
+socks5://;; Warning: ID mismatch: expected ID 16963, got 18598:1080
 socks5://10.124.0.33:1080
 socks5://10.124.0.73:1080
 socks5://10.124.0.20:1080
