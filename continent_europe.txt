@@ -89,9 +89,9 @@ socks5://10.124.2.55:1080
 socks5://10.124.2.56:1080
 socks5://10.124.1.63:1080
 socks5://10.124.1.64:1080
-socks5://;; communications error to 208.67.220.220#53: timed out:1080
+socks5://10.124.0.45:1080
 socks5://10.124.1.183:1080
-socks5://;; Warning: ID mismatch: expected ID 52702, got 9368:1080
+socks5://10.124.0.116:1080
 socks5://10.124.0.117:1080
 socks5://10.124.0.118:1080
 socks5://10.124.0.119:1080
