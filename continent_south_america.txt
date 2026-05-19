@@ -1,5 +1,5 @@
 socks5://10.124.0.15:1080
-socks5://;; communications error to 1.1.1.1#53: timed out:1080
+socks5://10.124.0.47:1080
 socks5://10.124.0.10:1080
 socks5://10.124.0.12:1080
 socks5://10.124.2.31:1080
