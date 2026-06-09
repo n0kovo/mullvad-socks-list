@@ -178,8 +178,8 @@ socks5://10.124.1.149:1080
 socks5://10.124.1.150:1080
 socks5://10.124.1.151:1080
 socks5://10.124.1.152:1080
-socks5://10.124.1.153:1080
-socks5://10.124.2.22:1080
+socks5://;; communications error to 1.1.1.1#53: timed out:1080
+socks5://;; Warning: ID mismatch: expected ID 29521, got 45120:1080
 socks5://10.124.2.23:1080
 socks5://10.124.2.24:1080
 socks5://10.124.1.167:1080
