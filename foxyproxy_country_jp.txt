@@ -1,0 +1,7 @@
+socks5://10.124.0.56:1080?title=jp-osa-wg-socks5-101&cc=JP&city=Osaka&active=true&proxyDNS=true
+socks5://10.124.0.136:1080?title=jp-osa-wg-socks5-102&cc=JP&city=Osaka&active=true&proxyDNS=true
+socks5://10.124.0.237:1080?title=jp-osa-wg-socks5-103&cc=JP&city=Osaka&active=true&proxyDNS=true
+socks5://10.124.1.218:1080?title=jp-tyo-wg-socks5-001&cc=JP&city=Tokyo&active=true&proxyDNS=true
+socks5://10.124.1.118:1080?title=jp-tyo-wg-socks5-201&cc=JP&city=Tokyo&active=true&proxyDNS=true
+socks5://10.124.1.119:1080?title=jp-tyo-wg-socks5-202&cc=JP&city=Tokyo&active=true&proxyDNS=true
+socks5://10.124.1.120:1080?title=jp-tyo-wg-socks5-203&cc=JP&city=Tokyo&active=true&proxyDNS=true

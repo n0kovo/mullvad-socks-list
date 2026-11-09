@@ -1,0 +1,2 @@
+socks5://10.124.0.25:1080?title=ua-iev-wg-socks5-001&cc=UA&city=Kyiv&active=true&proxyDNS=true
+socks5://10.124.0.195:1080?title=ua-iev-wg-socks5-002&cc=UA&city=Kyiv&active=true&proxyDNS=true

@@ -1,0 +1,2 @@
+socks5://10.124.0.216:1080?title=co-bog-wg-socks5-001&cc=CO&city=Bogota&active=true&proxyDNS=true
+socks5://10.124.0.217:1080?title=co-bog-wg-socks5-002&cc=CO&city=Bogota&active=true&proxyDNS=true

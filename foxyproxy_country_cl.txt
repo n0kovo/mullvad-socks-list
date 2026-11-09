@@ -1,0 +1,2 @@
+socks5://10.124.1.20:1080?title=cl-scl-wg-socks5-001&cc=CL&city=Santiago&active=true&proxyDNS=true
+socks5://10.124.1.21:1080?title=cl-scl-wg-socks5-002&cc=CL&city=Santiago&active=true&proxyDNS=true

@@ -1,0 +1,13 @@
+socks5://10.124.1.63:1080?title=fr-bod-wg-socks5-001&cc=FR&city=Bordeaux&active=true&proxyDNS=true
+socks5://10.124.1.64:1080?title=fr-bod-wg-socks5-002&cc=FR&city=Bordeaux&active=true&proxyDNS=true
+socks5://10.124.0.45:1080?title=fr-mrs-wg-socks5-001&cc=FR&city=Marseille&active=true&proxyDNS=true
+socks5://10.124.1.183:1080?title=fr-mrs-wg-socks5-002&cc=FR&city=Marseille&active=true&proxyDNS=true
+socks5://10.124.0.116:1080?title=fr-par-wg-socks5-001&cc=FR&city=Paris&active=true&proxyDNS=true
+socks5://10.124.0.117:1080?title=fr-par-wg-socks5-002&cc=FR&city=Paris&active=true&proxyDNS=true
+socks5://10.124.0.118:1080?title=fr-par-wg-socks5-003&cc=FR&city=Paris&active=true&proxyDNS=true
+socks5://10.124.0.119:1080?title=fr-par-wg-socks5-004&cc=FR&city=Paris&active=true&proxyDNS=true
+socks5://10.124.0.223:1080?title=fr-par-wg-socks5-101&cc=FR&city=Paris&active=true&proxyDNS=true
+socks5://10.124.0.224:1080?title=fr-par-wg-socks5-102&cc=FR&city=Paris&active=true&proxyDNS=true
+socks5://10.124.1.11:1080?title=fr-par-wg-socks5-103&cc=FR&city=Paris&active=true&proxyDNS=true
+socks5://10.124.1.78:1080?title=fr-par-wg-socks5-301&cc=FR&city=Paris&active=true&proxyDNS=true
+socks5://10.124.1.79:1080?title=fr-par-wg-socks5-302&cc=FR&city=Paris&active=true&proxyDNS=true

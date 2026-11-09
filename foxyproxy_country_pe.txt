@@ -1,0 +1,2 @@
+socks5://10.124.1.81:1080?title=pe-lim-wg-socks5-001&cc=PE&city=Lima&active=true&proxyDNS=true
+socks5://10.124.1.82:1080?title=pe-lim-wg-socks5-002&cc=PE&city=Lima&active=true&proxyDNS=true

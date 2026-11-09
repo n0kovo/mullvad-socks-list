@@ -1,0 +1,2 @@
+socks5://10.124.2.59:1080?title=za-jnb-wg-socks5-001&cc=ZA&city=Johannesburg&active=true&proxyDNS=true
+socks5://10.124.2.60:1080?title=za-jnb-wg-socks5-002&cc=ZA&city=Johannesburg&active=true&proxyDNS=true

@@ -1,0 +1,2 @@
+socks5://10.124.0.145:1080?title=ph-mnl-wg-socks5-001&cc=PH&city=Manila&active=true&proxyDNS=true
+socks5://10.124.0.146:1080?title=ph-mnl-wg-socks5-002&cc=PH&city=Manila&active=true&proxyDNS=true

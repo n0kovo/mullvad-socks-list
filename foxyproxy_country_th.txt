@@ -1,0 +1,2 @@
+socks5://10.124.1.4:1080?title=th-bkk-wg-socks5-001&cc=TH&city=Bangkok&active=true&proxyDNS=true
+socks5://10.124.1.5:1080?title=th-bkk-wg-socks5-002&cc=TH&city=Bangkok&active=true&proxyDNS=true

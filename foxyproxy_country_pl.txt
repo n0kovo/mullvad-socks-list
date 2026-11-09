@@ -1,0 +1,5 @@
+socks5://10.124.1.219:1080?title=pl-waw-wg-socks5-101&cc=PL&city=Warsaw&active=true&proxyDNS=true
+socks5://10.124.1.220:1080?title=pl-waw-wg-socks5-102&cc=PL&city=Warsaw&active=true&proxyDNS=true
+socks5://10.124.1.221:1080?title=pl-waw-wg-socks5-103&cc=PL&city=Warsaw&active=true&proxyDNS=true
+socks5://10.124.2.45:1080?title=pl-waw-wg-socks5-201&cc=PL&city=Warsaw&active=true&proxyDNS=true
+socks5://10.124.2.46:1080?title=pl-waw-wg-socks5-202&cc=PL&city=Warsaw&active=true&proxyDNS=true

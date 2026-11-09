@@ -1,0 +1,2 @@
+socks5://10.124.0.248:1080?title=si-lju-wg-socks5-001&cc=SI&city=Ljubljana&active=true&proxyDNS=true
+socks5://10.124.0.249:1080?title=si-lju-wg-socks5-002&cc=SI&city=Ljubljana&active=true&proxyDNS=true

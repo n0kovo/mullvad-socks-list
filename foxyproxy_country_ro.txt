@@ -1,0 +1,3 @@
+socks5://10.124.1.25:1080?title=ro-buh-wg-socks5-011&cc=RO&city=Bucharest&active=true&proxyDNS=true
+socks5://10.124.1.27:1080?title=ro-buh-wg-socks5-012&cc=RO&city=Bucharest&active=true&proxyDNS=true
+socks5://10.124.2.9:1080?title=ro-buh-wg-socks5-013&cc=RO&city=Bucharest&active=true&proxyDNS=true

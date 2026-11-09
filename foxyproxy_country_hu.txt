@@ -1,0 +1,4 @@
+socks5://10.124.0.227:1080?title=hu-bud-wg-socks5-101&cc=HU&city=Budapest&active=true&proxyDNS=true
+socks5://10.124.0.228:1080?title=hu-bud-wg-socks5-102&cc=HU&city=Budapest&active=true&proxyDNS=true
+socks5://10.124.0.135:1080?title=hu-bud-wg-socks5-201&cc=HU&city=Budapest&active=true&proxyDNS=true
+socks5://10.124.0.137:1080?title=hu-bud-wg-socks5-202&cc=HU&city=Budapest&active=true&proxyDNS=true

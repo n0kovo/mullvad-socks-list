@@ -1,0 +1,3 @@
+socks5://10.124.0.218:1080?title=nz-akl-wg-socks5-301&cc=NZ&city=Auckland&active=true&proxyDNS=true
+socks5://10.124.0.219:1080?title=nz-akl-wg-socks5-302&cc=NZ&city=Auckland&active=true&proxyDNS=true
+socks5://10.124.0.5:1080?title=nz-akl-wg-socks5-303&cc=NZ&city=Auckland&active=true&proxyDNS=true

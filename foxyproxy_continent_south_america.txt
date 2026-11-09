@@ -1,0 +1,14 @@
+socks5://10.124.0.15:1080?title=ar-bue-wg-socks5-001&cc=AR&city=Buenos+Aires&active=true&proxyDNS=true
+socks5://10.124.0.47:1080?title=ar-bue-wg-socks5-002&cc=AR&city=Buenos+Aires&active=true&proxyDNS=true
+socks5://10.124.0.10:1080?title=br-for-wg-socks5-001&cc=BR&city=Fortaleza&active=true&proxyDNS=true
+socks5://10.124.0.12:1080?title=br-for-wg-socks5-002&cc=BR&city=Fortaleza&active=true&proxyDNS=true
+socks5://10.124.2.31:1080?title=br-sao-wg-socks5-201&cc=BR&city=Sao+Paulo&active=true&proxyDNS=true
+socks5://10.124.2.32:1080?title=br-sao-wg-socks5-202&cc=BR&city=Sao+Paulo&active=true&proxyDNS=true
+socks5://10.124.1.212:1080?title=br-sao-wg-socks5-301&cc=BR&city=Sao+Paulo&active=true&proxyDNS=true
+socks5://10.124.2.2:1080?title=br-sao-wg-socks5-302&cc=BR&city=Sao+Paulo&active=true&proxyDNS=true
+socks5://10.124.1.20:1080?title=cl-scl-wg-socks5-001&cc=CL&city=Santiago&active=true&proxyDNS=true
+socks5://10.124.1.21:1080?title=cl-scl-wg-socks5-002&cc=CL&city=Santiago&active=true&proxyDNS=true
+socks5://10.124.0.216:1080?title=co-bog-wg-socks5-001&cc=CO&city=Bogota&active=true&proxyDNS=true
+socks5://10.124.0.217:1080?title=co-bog-wg-socks5-002&cc=CO&city=Bogota&active=true&proxyDNS=true
+socks5://10.124.1.81:1080?title=pe-lim-wg-socks5-001&cc=PE&city=Lima&active=true&proxyDNS=true
+socks5://10.124.1.82:1080?title=pe-lim-wg-socks5-002&cc=PE&city=Lima&active=true&proxyDNS=true

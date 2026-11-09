@@ -1,0 +1,7 @@
+socks5://10.124.1.206:1080?title=it-mil-wg-socks5-001&cc=IT&city=Milan&active=true&proxyDNS=true
+socks5://10.124.1.207:1080?title=it-mil-wg-socks5-002&cc=IT&city=Milan&active=true&proxyDNS=true
+socks5://10.124.1.208:1080?title=it-mil-wg-socks5-003&cc=IT&city=Milan&active=true&proxyDNS=true
+socks5://10.124.0.200:1080?title=it-mil-wg-socks5-201&cc=IT&city=Milan&active=true&proxyDNS=true
+socks5://10.124.0.201:1080?title=it-mil-wg-socks5-202&cc=IT&city=Milan&active=true&proxyDNS=true
+socks5://10.124.1.67:1080?title=it-pmo-wg-socks5-001&cc=IT&city=Palermo&active=true&proxyDNS=true
+socks5://10.124.1.68:1080?title=it-pmo-wg-socks5-002&cc=IT&city=Palermo&active=true&proxyDNS=true

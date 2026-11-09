@@ -1,0 +1,2 @@
+socks5://10.124.1.83:1080?title=cy-nic-wg-socks5-001&cc=CY&city=Nicosia&active=true&proxyDNS=true
+socks5://10.124.1.84:1080?title=cy-nic-wg-socks5-002&cc=CY&city=Nicosia&active=true&proxyDNS=true

@@ -1,0 +1,4 @@
+socks5://10.124.0.77:1080?title=cz-prg-wg-socks5-101&cc=CZ&city=Prague&active=true&proxyDNS=true
+socks5://10.124.0.48:1080?title=cz-prg-wg-socks5-103&cc=CZ&city=Prague&active=true&proxyDNS=true
+socks5://10.124.2.57:1080?title=cz-prg-wg-socks5-201&cc=CZ&city=Prague&active=true&proxyDNS=true
+socks5://10.124.2.58:1080?title=cz-prg-wg-socks5-202&cc=CZ&city=Prague&active=true&proxyDNS=true

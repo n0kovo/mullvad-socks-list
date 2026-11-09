@@ -1,0 +1,3 @@
+socks5://10.124.2.5:1080?title=il-tlv-wg-socks5-101&cc=IL&city=Tel+Aviv&active=true&proxyDNS=true
+socks5://10.124.2.25:1080?title=il-tlv-wg-socks5-102&cc=IL&city=Tel+Aviv&active=true&proxyDNS=true
+socks5://10.124.2.26:1080?title=il-tlv-wg-socks5-103&cc=IL&city=Tel+Aviv&active=true&proxyDNS=true

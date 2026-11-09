@@ -1,0 +1,3 @@
+socks5://10.124.0.198:1080?title=pt-lis-wg-socks5-201&cc=PT&city=Lisbon&active=true&proxyDNS=true
+socks5://10.124.0.199:1080?title=pt-lis-wg-socks5-202&cc=PT&city=Lisbon&active=true&proxyDNS=true
+socks5://10.124.1.75:1080?title=pt-lis-wg-socks5-301&cc=PT&city=Lisbon&active=true&proxyDNS=true

@@ -1,0 +1,2 @@
+socks5://10.124.1.39:1080?title=my-kul-wg-socks5-001&cc=MY&city=Kuala+Lumpur&active=true&proxyDNS=true
+socks5://10.124.1.40:1080?title=my-kul-wg-socks5-002&cc=MY&city=Kuala+Lumpur&active=true&proxyDNS=true

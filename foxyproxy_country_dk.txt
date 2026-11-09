@@ -1,0 +1,5 @@
+socks5://10.124.0.64:1080?title=dk-cph-wg-socks5-001&cc=DK&city=Copenhagen&active=true&proxyDNS=true
+socks5://10.124.0.17:1080?title=dk-cph-wg-socks5-002&cc=DK&city=Copenhagen&active=true&proxyDNS=true
+socks5://10.124.2.91:1080?title=dk-cph-wg-socks5-102&cc=DK&city=Copenhagen&active=true&proxyDNS=true
+socks5://10.124.0.19:1080?title=dk-cph-wg-socks5-401&cc=DK&city=Copenhagen&active=true&proxyDNS=true
+socks5://10.124.0.30:1080?title=dk-cph-wg-socks5-402&cc=DK&city=Copenhagen&active=true&proxyDNS=true

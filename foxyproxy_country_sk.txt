@@ -1,0 +1,2 @@
+socks5://10.124.2.3:1080?title=sk-bts-wg-socks5-001&cc=SK&city=Bratislava&active=true&proxyDNS=true
+socks5://10.124.2.4:1080?title=sk-bts-wg-socks5-002&cc=SK&city=Bratislava&active=true&proxyDNS=true

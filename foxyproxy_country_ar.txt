@@ -1,0 +1,2 @@
+socks5://10.124.0.15:1080?title=ar-bue-wg-socks5-001&cc=AR&city=Buenos+Aires&active=true&proxyDNS=true
+socks5://10.124.0.47:1080?title=ar-bue-wg-socks5-002&cc=AR&city=Buenos+Aires&active=true&proxyDNS=true

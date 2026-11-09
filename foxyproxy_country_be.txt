@@ -1,0 +1,3 @@
+socks5://10.124.2.42:1080?title=be-bru-wg-socks5-101&cc=BE&city=Brussels&active=true&proxyDNS=true
+socks5://10.124.2.43:1080?title=be-bru-wg-socks5-102&cc=BE&city=Brussels&active=true&proxyDNS=true
+socks5://10.124.2.44:1080?title=be-bru-wg-socks5-103&cc=BE&city=Brussels&active=true&proxyDNS=true

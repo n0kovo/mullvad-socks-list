@@ -1,0 +1,10 @@
+socks5://10.124.0.6:1080?title=no-osl-wg-socks5-001&cc=NO&city=Oslo&active=true&proxyDNS=true
+socks5://10.124.0.108:1080?title=no-osl-wg-socks5-002&cc=NO&city=Oslo&active=true&proxyDNS=true
+socks5://10.124.0.109:1080?title=no-osl-wg-socks5-003&cc=NO&city=Oslo&active=true&proxyDNS=true
+socks5://10.124.0.67:1080?title=no-osl-wg-socks5-101&cc=NO&city=Oslo&active=true&proxyDNS=true
+socks5://10.124.0.103:1080?title=no-osl-wg-socks5-102&cc=NO&city=Oslo&active=true&proxyDNS=true
+socks5://10.124.0.104:1080?title=no-osl-wg-socks5-103&cc=NO&city=Oslo&active=true&proxyDNS=true
+socks5://10.124.2.38:1080?title=no-svg-wg-socks5-001&cc=NO&city=Stavanger&active=true&proxyDNS=true
+socks5://10.124.2.39:1080?title=no-svg-wg-socks5-002&cc=NO&city=Stavanger&active=true&proxyDNS=true
+socks5://10.124.2.40:1080?title=no-svg-wg-socks5-003&cc=NO&city=Stavanger&active=true&proxyDNS=true
+socks5://10.124.2.41:1080?title=no-svg-wg-socks5-004&cc=NO&city=Stavanger&active=true&proxyDNS=true

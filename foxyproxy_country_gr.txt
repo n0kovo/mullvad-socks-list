@@ -1,0 +1,2 @@
+socks5://10.124.0.159:1080?title=gr-ath-wg-socks5-101&cc=GR&city=Athens&active=true&proxyDNS=true
+socks5://10.124.0.166:1080?title=gr-ath-wg-socks5-102&cc=GR&city=Athens&active=true&proxyDNS=true

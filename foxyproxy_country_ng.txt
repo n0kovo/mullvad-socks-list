@@ -1,0 +1,2 @@
+socks5://10.124.0.97:1080?title=ng-los-wg-socks5-001&cc=NG&city=Lagos&active=true&proxyDNS=true
+socks5://10.124.0.98:1080?title=ng-los-wg-socks5-002&cc=NG&city=Lagos&active=true&proxyDNS=true
