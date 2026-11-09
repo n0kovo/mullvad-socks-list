@@ -4,6 +4,7 @@ from threading import Thread, Lock
 from queue import Queue
 from collections import defaultdict
 from pathlib import Path
+from urllib.parse import urlencode
 
 
 def resolver(queue, resolved, failed, resolved_lock, failed_lock):
@@ -53,10 +54,27 @@ COUNTRY_TO_CONTINENT = {
     ]
 }
 
-def write_to_file(filename, ips):
-    with open((Path("./repo") / Path(filename).with_suffix('.txt')).as_posix(), 'w') as f:
-        for ip in ips:
-            f.write(f"socks5://{ip}:1080\n")
+def foxyproxy_line(host, ip):
+    # FoxyProxy 8+ "Import Proxy List" extended format. Unlike its JSON imports,
+    # this adds to the existing proxies instead of replacing them.
+    params = {
+        'title': host['socks_name'].split('.')[0],
+        'cc': host['country_code'].upper(),
+        'city': host.get('city_name', ''),
+        'active': 'true',
+        'proxyDNS': 'true',
+    }
+    return f"socks5://{ip}:{host.get('socks_port') or 1080}?{urlencode(params)}"
+
+
+def write_to_file(filename, entries):
+    repo = Path("./repo")
+    with open(repo / f"{filename}.txt", 'w') as f:
+        for host, ip in entries:
+            f.write(f"socks5://{ip}:{host.get('socks_port') or 1080}\n")
+    with open(repo / f"foxyproxy_{filename}.txt", 'w') as f:
+        for host, ip in entries:
+            f.write(foxyproxy_line(host, ip) + "\n")
 
 queue = Queue()
 resolved = {}
@@ -86,7 +104,7 @@ for host in r:
     if socks_name and host['active'] and socks_name in resolved:
         socks_addr = resolved[socks_name]
         country_code = host['country_code']
-        country_ips[country_code].append(socks_addr)
+        country_ips[country_code].append((host, socks_addr))
         
         continent = None
         for cont, countries in COUNTRY_TO_CONTINENT.items():
@@ -94,7 +112,7 @@ for host in r:
                 continent = cont
                 break
         if continent:
-            continent_ips[continent].append(socks_addr)
+            continent_ips[continent].append((host, socks_addr))
 
 for country_code, ips in country_ips.items():
     write_to_file(f'country_{country_code}', ips)
@@ -102,7 +120,7 @@ for country_code, ips in country_ips.items():
 for continent, ips in continent_ips.items():
     write_to_file(f'continent_{continent}', ips)
 
-all_ips = [resolved[host['socks_name']] for host in r 
+all_ips = [(host, resolved[host['socks_name']]) for host in r 
            if host.get('socks_name') and 
            host['active'] and 
            host['socks_name'] in resolved]
