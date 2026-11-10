@@ -1,2 +1,2 @@
-socks5://10.124.0.33:1080?title=rs-beg-wg-socks5-101&cc=RS&city=Belgrade&active=true&proxyDNS=true
-socks5://10.124.0.73:1080?title=rs-beg-wg-socks5-102&cc=RS&city=Belgrade&active=true&proxyDNS=true
+socks5://10.124.0.121:1080?title=rs-beg-wg-socks5-101&cc=RS&city=Belgrade&active=true&proxyDNS=true
+socks5://10.124.0.122:1080?title=rs-beg-wg-socks5-102&cc=RS&city=Belgrade&active=true&proxyDNS=true
