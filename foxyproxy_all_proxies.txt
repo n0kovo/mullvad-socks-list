@@ -19,7 +19,6 @@ socks5://10.124.1.53:1080?title=au-mel-wg-socks5-401&cc=AU&city=Melbourne&active
 socks5://10.124.1.59:1080?title=au-mel-wg-socks5-402&cc=AU&city=Melbourne&active=true&proxyDNS=true
 socks5://10.124.2.107:1080?title=au-mel-wg-socks5-403&cc=AU&city=Melbourne&active=true&proxyDNS=true
 socks5://10.124.0.95:1080?title=au-per-wg-socks5-001&cc=AU&city=Perth&active=true&proxyDNS=true
-socks5://10.124.0.102:1080?title=au-per-wg-socks5-002&cc=AU&city=Perth&active=true&proxyDNS=true
 socks5://10.124.0.120:1080?title=au-per-wg-socks5-003&cc=AU&city=Perth&active=true&proxyDNS=true
 socks5://10.124.0.36:1080?title=au-syd-wg-socks5-001&cc=AU&city=Sydney&active=true&proxyDNS=true
 socks5://10.124.0.37:1080?title=au-syd-wg-socks5-002&cc=AU&city=Sydney&active=true&proxyDNS=true
