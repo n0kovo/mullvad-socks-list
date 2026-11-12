@@ -396,7 +396,6 @@ socks5://10.124.2.111:1080?title=us-lax-wg-socks5-005&cc=US&city=Los+Angeles%2C+
 socks5://10.124.2.112:1080?title=us-lax-wg-socks5-006&cc=US&city=Los+Angeles%2C+CA&active=true&proxyDNS=true
 socks5://10.124.2.113:1080?title=us-lax-wg-socks5-007&cc=US&city=Los+Angeles%2C+CA&active=true&proxyDNS=true
 socks5://10.124.2.114:1080?title=us-lax-wg-socks5-008&cc=US&city=Los+Angeles%2C+CA&active=true&proxyDNS=true
-socks5://10.124.0.83:1080?title=us-lax-wg-socks5-201&cc=US&city=Los+Angeles%2C+CA&active=true&proxyDNS=true
 socks5://10.124.2.29:1080?title=us-lax-wg-socks5-202&cc=US&city=Los+Angeles%2C+CA&active=true&proxyDNS=true
 socks5://10.124.2.30:1080?title=us-lax-wg-socks5-203&cc=US&city=Los+Angeles%2C+CA&active=true&proxyDNS=true
 socks5://10.124.0.101:1080?title=us-lax-wg-socks5-401&cc=US&city=Los+Angeles%2C+CA&active=true&proxyDNS=true
