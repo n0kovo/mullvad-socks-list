@@ -16,6 +16,4 @@ socks5://10.124.1.86:1080?title=gb-lon-wg-socks5-306&cc=GB&city=London&active=tr
 socks5://10.124.1.117:1080?title=gb-lon-wg-socks5-308&cc=GB&city=London&active=true&proxyDNS=true
 socks5://10.124.0.31:1080?title=gb-mnc-wg-socks5-001&cc=GB&city=Manchester&active=true&proxyDNS=true
 socks5://10.124.0.32:1080?title=gb-mnc-wg-socks5-002&cc=GB&city=Manchester&active=true&proxyDNS=true
-socks5://10.124.0.34:1080?title=gb-mnc-wg-socks5-003&cc=GB&city=Manchester&active=true&proxyDNS=true
-socks5://10.124.0.88:1080?title=gb-mnc-wg-socks5-004&cc=GB&city=Manchester&active=true&proxyDNS=true
 socks5://10.124.1.163:1080?title=gb-mnc-wg-socks5-202&cc=GB&city=Manchester&active=true&proxyDNS=true
