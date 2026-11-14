@@ -450,7 +450,7 @@ socks5://10.124.1.46:1080?title=us-nyc-wg-socks5-604&cc=US&city=New+York%2C+NY&a
 socks5://10.124.1.47:1080?title=us-nyc-wg-socks5-605&cc=US&city=New+York%2C+NY&active=true&proxyDNS=true
 socks5://10.124.0.235:1080?title=us-nyc-wg-socks5-606&cc=US&city=New+York%2C+NY&active=true&proxyDNS=true
 socks5://10.124.0.170:1080?title=us-nyc-wg-socks5-801&cc=US&city=New+York%2C+NY&active=true&proxyDNS=true
-socks5://;; communications error to 8.8.8.8#53: timed out:1080?title=us-nyc-wg-socks5-802&cc=US&city=New+York%2C+NY&active=true&proxyDNS=true
+socks5://10.124.0.184:1080?title=us-nyc-wg-socks5-802&cc=US&city=New+York%2C+NY&active=true&proxyDNS=true
 socks5://10.124.0.188:1080?title=us-nyc-wg-socks5-803&cc=US&city=New+York%2C+NY&active=true&proxyDNS=true
 socks5://10.124.0.193:1080?title=us-nyc-wg-socks5-804&cc=US&city=New+York%2C+NY&active=true&proxyDNS=true
 socks5://10.124.0.242:1080?title=us-nyc-wg-socks5-805&cc=US&city=New+York%2C+NY&active=true&proxyDNS=true
