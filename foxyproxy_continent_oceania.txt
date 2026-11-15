@@ -12,10 +12,6 @@ socks5://10.124.0.120:1080?title=au-per-wg-socks5-003&cc=AU&city=Perth&active=tr
 socks5://10.124.0.36:1080?title=au-syd-wg-socks5-001&cc=AU&city=Sydney&active=true&proxyDNS=true
 socks5://10.124.0.37:1080?title=au-syd-wg-socks5-002&cc=AU&city=Sydney&active=true&proxyDNS=true
 socks5://10.124.0.42:1080?title=au-syd-wg-socks5-003&cc=AU&city=Sydney&active=true&proxyDNS=true
-socks5://10.124.0.214:1080?title=au-syd-wg-socks5-101&cc=AU&city=Sydney&active=true&proxyDNS=true
-socks5://10.124.0.215:1080?title=au-syd-wg-socks5-102&cc=AU&city=Sydney&active=true&proxyDNS=true
-socks5://10.124.0.141:1080?title=au-syd-wg-socks5-103&cc=AU&city=Sydney&active=true&proxyDNS=true
-socks5://10.124.0.211:1080?title=au-syd-wg-socks5-104&cc=AU&city=Sydney&active=true&proxyDNS=true
 socks5://10.124.2.70:1080?title=au-syd-wg-socks5-301&cc=AU&city=Sydney&active=true&proxyDNS=true
 socks5://10.124.2.71:1080?title=au-syd-wg-socks5-302&cc=AU&city=Sydney&active=true&proxyDNS=true
 socks5://10.124.2.72:1080?title=au-syd-wg-socks5-303&cc=AU&city=Sydney&active=true&proxyDNS=true
