@@ -65,6 +65,9 @@ socks5://10.124.2.6:1080?title=ee-tll-wg-socks5-102&cc=EE&city=Tallinn&active=tr
 socks5://10.124.2.7:1080?title=ee-tll-wg-socks5-103&cc=EE&city=Tallinn&active=true&proxyDNS=true
 socks5://10.124.0.252:1080?title=es-bcn-wg-socks5-001&cc=ES&city=Barcelona&active=true&proxyDNS=true
 socks5://10.124.0.253:1080?title=es-bcn-wg-socks5-002&cc=ES&city=Barcelona&active=true&proxyDNS=true
+socks5://10.124.0.33:1080?title=es-bcn-wg-socks5-101&cc=ES&city=Barcelona&active=true&proxyDNS=true
+socks5://10.124.0.73:1080?title=es-bcn-wg-socks5-102&cc=ES&city=Barcelona&active=true&proxyDNS=true
+socks5://10.124.0.123:1080?title=es-bcn-wg-socks5-103&cc=ES&city=Barcelona&active=true&proxyDNS=true
 socks5://10.124.1.223:1080?title=es-mad-wg-socks5-101&cc=ES&city=Madrid&active=true&proxyDNS=true
 socks5://10.124.1.222:1080?title=es-mad-wg-socks5-102&cc=ES&city=Madrid&active=true&proxyDNS=true
 socks5://10.124.2.8:1080?title=es-mad-wg-socks5-203&cc=ES&city=Madrid&active=true&proxyDNS=true
@@ -128,8 +131,6 @@ socks5://10.124.1.58:1080?title=ie-dub-wg-socks5-103&cc=IE&city=Dublin&active=tr
 socks5://10.124.1.206:1080?title=it-mil-wg-socks5-001&cc=IT&city=Milan&active=true&proxyDNS=true
 socks5://10.124.1.207:1080?title=it-mil-wg-socks5-002&cc=IT&city=Milan&active=true&proxyDNS=true
 socks5://10.124.1.208:1080?title=it-mil-wg-socks5-003&cc=IT&city=Milan&active=true&proxyDNS=true
-socks5://10.124.0.200:1080?title=it-mil-wg-socks5-201&cc=IT&city=Milan&active=true&proxyDNS=true
-socks5://10.124.0.201:1080?title=it-mil-wg-socks5-202&cc=IT&city=Milan&active=true&proxyDNS=true
 socks5://10.124.1.67:1080?title=it-pmo-wg-socks5-001&cc=IT&city=Palermo&active=true&proxyDNS=true
 socks5://10.124.1.68:1080?title=it-pmo-wg-socks5-002&cc=IT&city=Palermo&active=true&proxyDNS=true
 socks5://10.124.0.113:1080?title=nl-ams-wg-socks5-004&cc=NL&city=Amsterdam&active=true&proxyDNS=true
