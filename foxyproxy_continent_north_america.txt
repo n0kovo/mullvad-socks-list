@@ -7,7 +7,7 @@ socks5://10.124.0.171:1080?title=ca-mtr-wg-socks5-202&cc=CA&city=Montreal&active
 socks5://10.124.2.93:1080?title=ca-mtr-wg-socks5-301&cc=CA&city=Montreal&active=true&proxyDNS=true
 socks5://10.124.2.94:1080?title=ca-mtr-wg-socks5-302&cc=CA&city=Montreal&active=true&proxyDNS=true
 socks5://10.124.2.95:1080?title=ca-mtr-wg-socks5-303&cc=CA&city=Montreal&active=true&proxyDNS=true
-socks5://;; communications error to 8.8.8.8#53: timed out:1080?title=ca-mtr-wg-socks5-304&cc=CA&city=Montreal&active=true&proxyDNS=true
+socks5://10.124.2.96:1080?title=ca-mtr-wg-socks5-304&cc=CA&city=Montreal&active=true&proxyDNS=true
 socks5://10.124.2.97:1080?title=ca-mtr-wg-socks5-305&cc=CA&city=Montreal&active=true&proxyDNS=true
 socks5://10.124.2.98:1080?title=ca-mtr-wg-socks5-306&cc=CA&city=Montreal&active=true&proxyDNS=true
 socks5://10.124.2.99:1080?title=ca-mtr-wg-socks5-307&cc=CA&city=Montreal&active=true&proxyDNS=true
@@ -73,7 +73,6 @@ socks5://10.124.1.226:1080?title=us-dal-wg-socks5-401&cc=US&city=Dallas%2C+TX&ac
 socks5://10.124.1.225:1080?title=us-dal-wg-socks5-402&cc=US&city=Dallas%2C+TX&active=true&proxyDNS=true
 socks5://10.124.1.224:1080?title=us-dal-wg-socks5-403&cc=US&city=Dallas%2C+TX&active=true&proxyDNS=true
 socks5://10.124.1.171:1080?title=us-dal-wg-socks5-601&cc=US&city=Dallas%2C+TX&active=true&proxyDNS=true
-socks5://10.124.1.172:1080?title=us-dal-wg-socks5-602&cc=US&city=Dallas%2C+TX&active=true&proxyDNS=true
 socks5://10.124.1.173:1080?title=us-dal-wg-socks5-603&cc=US&city=Dallas%2C+TX&active=true&proxyDNS=true
 socks5://10.124.1.174:1080?title=us-dal-wg-socks5-604&cc=US&city=Dallas%2C+TX&active=true&proxyDNS=true
 socks5://10.124.2.88:1080?title=us-dal-wg-socks5-701&cc=US&city=Dallas%2C+TX&active=true&proxyDNS=true

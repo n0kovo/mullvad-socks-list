@@ -40,7 +40,6 @@ socks5://10.124.1.226:1080?title=us-dal-wg-socks5-401&cc=US&city=Dallas%2C+TX&ac
 socks5://10.124.1.225:1080?title=us-dal-wg-socks5-402&cc=US&city=Dallas%2C+TX&active=true&proxyDNS=true
 socks5://10.124.1.224:1080?title=us-dal-wg-socks5-403&cc=US&city=Dallas%2C+TX&active=true&proxyDNS=true
 socks5://10.124.1.171:1080?title=us-dal-wg-socks5-601&cc=US&city=Dallas%2C+TX&active=true&proxyDNS=true
-socks5://10.124.1.172:1080?title=us-dal-wg-socks5-602&cc=US&city=Dallas%2C+TX&active=true&proxyDNS=true
 socks5://10.124.1.173:1080?title=us-dal-wg-socks5-603&cc=US&city=Dallas%2C+TX&active=true&proxyDNS=true
 socks5://10.124.1.174:1080?title=us-dal-wg-socks5-604&cc=US&city=Dallas%2C+TX&active=true&proxyDNS=true
 socks5://10.124.2.88:1080?title=us-dal-wg-socks5-701&cc=US&city=Dallas%2C+TX&active=true&proxyDNS=true

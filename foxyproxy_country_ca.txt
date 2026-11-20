@@ -7,7 +7,7 @@ socks5://10.124.0.171:1080?title=ca-mtr-wg-socks5-202&cc=CA&city=Montreal&active
 socks5://10.124.2.93:1080?title=ca-mtr-wg-socks5-301&cc=CA&city=Montreal&active=true&proxyDNS=true
 socks5://10.124.2.94:1080?title=ca-mtr-wg-socks5-302&cc=CA&city=Montreal&active=true&proxyDNS=true
 socks5://10.124.2.95:1080?title=ca-mtr-wg-socks5-303&cc=CA&city=Montreal&active=true&proxyDNS=true
-socks5://;; communications error to 8.8.8.8#53: timed out:1080?title=ca-mtr-wg-socks5-304&cc=CA&city=Montreal&active=true&proxyDNS=true
+socks5://10.124.2.96:1080?title=ca-mtr-wg-socks5-304&cc=CA&city=Montreal&active=true&proxyDNS=true
 socks5://10.124.2.97:1080?title=ca-mtr-wg-socks5-305&cc=CA&city=Montreal&active=true&proxyDNS=true
 socks5://10.124.2.98:1080?title=ca-mtr-wg-socks5-306&cc=CA&city=Montreal&active=true&proxyDNS=true
 socks5://10.124.2.99:1080?title=ca-mtr-wg-socks5-307&cc=CA&city=Montreal&active=true&proxyDNS=true
